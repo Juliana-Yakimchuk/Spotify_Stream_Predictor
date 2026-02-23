@@ -35,18 +35,33 @@ To better align the target variable with the underlying data-generating process,
 
 ## 🛠️ Approach & Methodology
 1. **Data Cleaning & Preprocessing**:
-   - Removed duplicates and handled missing values.
-   
+   - Corrected data types
+   - Transformed duplicate ISRCs into one data point using median of features
+   - The target variable was transformed to average monthly streams to control for stream accumulation over the years and subsequently log-transformed to reduce right-skewness and stabilize variance, improving the suitability of linear modeling assumptions. 
+
 2. **Exploratory Data Analysis (EDA)**:
-   - Distribution of monthly streams
    - Comparison of fetched vs. missing ISRCs
-   - Temporal effects by release year
+   - Distribution of monthly streams
+   - Distribution of features
+   - Calculate Pearson correlation of features against the target
  
 3. **Feature Engineering**:
+Exploratory analysis was conducted to assess whether nonlinear transformations or interaction terms could meaningfully strengthen the relationship between audio features and the log-transformed target variable (average monthly streams).The following engineered features were explored:
+
+ - Loudness squared (to capture potential curvature)
+ - Centered loudness squared
+ - Interaction term between energy and danceability
+
+Scatterplots of these engineered variables against the log target were examined and compared to the original features.
+
+Visual inspection of scatterplots suggested no meaningful reduction in variance or clearer functional relationship relative to the original predictors. In several cases, dispersion appeared similar or greater than that of the untransformed predictors, suggesting limited additional explanatory signal. For that reason, no adidtional engineered features were added to the dataset. We also extracted the year of release from the release date.
+
+Release year was extracted from the full release date to capture temporal effects related to platform growth and industry dynamics. Visual inspection indicated a clearer association with the target compared to many audio features, and it was therefore retained for modeling.
 
 4. **Modeling**:
    - Baseline linear regression
    - Tree-based models (Random Forest / XGBoost)
+   - ANN
 
 5. **Model Explainability (SHAP Values)**:
 
@@ -69,7 +84,7 @@ To better align the target variable with the underlying data-generating process,
 
 
 ## 📝 Business Impact
-This model allows the artists and labels to assess the potential streaming performance of a track and guide business decisions, such as:
+This model provides insights into how audio features affect streaming preformance to help artists and labels guide business decisions, such as:
 1. Invest into a high quality artwork
 2. Pitch the track to Spotify playlist curators
 3. Shoot a music video
