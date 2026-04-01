@@ -1,0 +1,3042 @@
+{
+  "a": {
+    "original_name": "A",
+    "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C"
+  },
+  "a day to remember": {
+    "original_name": "A Day to remember",
+    "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN",
+    "artist_id": "4NiJW4q9ichVqL1aUsgGAN"
+  },
+  "crochet": {
+    "original_name": "crochet",
+    "url": "https://open.spotify.com/artist/2AVaLiEDN8eHLxEdNXpJQT",
+    "artist_id": "2AVaLiEDN8eHLxEdNXpJQT"
+  },
+  "snails": {
+    "original_name": "SNAILS",
+    "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6",
+    "artist_id": "2yT7X3Gg2S51DHz67FAYL6"
+  },
+  "pendulum": {
+    "original_name": "Pendulum",
+    "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B",
+    "artist_id": "7MqnCTCAX6SsIYYdJCQj9B"
+  },
+  "rob sigurd": {
+    "original_name": "Rob Sigurd",
+    "url": "https://open.spotify.com/artist/5jgPXOwnAnNoqfyx0tME7l",
+    "artist_id": "5jgPXOwnAnNoqfyx0tME7l"
+  },
+  "a separate piece": {
+    "original_name": "A Separate Piece",
+    "url": "https://open.spotify.com/artist/3Rxlvk9NvsPJZGsZV3e67c",
+    "artist_id": "3Rxlvk9NvsPJZGsZV3e67c"
+  },
+  "damage over time": {
+    "original_name": "Damage Over Time",
+    "url": "https://open.spotify.com/artist/3mlE2Eo2gFTH0WrqIumPbG",
+    "artist_id": "3mlE2Eo2gFTH0WrqIumPbG"
+  },
+  "inception of fall": {
+    "original_name": "Inception of Fall",
+    "url": "https://open.spotify.com/artist/3OcGXD589qXemvOS3EEKXw",
+    "artist_id": "3OcGXD589qXemvOS3EEKXw"
+  },
+  "grind gang": {
+    "original_name": "Grind Gang",
+    "url": "https://open.spotify.com/artist/5H05MCDoyX0JRO9hDJXbId",
+    "artist_id": "5H05MCDoyX0JRO9hDJXbId"
+  },
+  "demeted": {
+    "original_name": "Demeted",
+    "url": "https://open.spotify.com/artist/4iJmMsVaUW6WZu1qUvcv9k",
+    "artist_id": "4iJmMsVaUW6WZu1qUvcv9k"
+  },
+  "greywind": {
+    "original_name": "Greywind",
+    "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4",
+    "artist_id": "3QFfYJq7jdx8GnVrePpZm4"
+  },
+  "coagulating": {
+    "original_name": "Coagulating",
+    "url": "https://open.spotify.com/artist/3j3Ke0DPx6r3Te1oISEzaF",
+    "artist_id": "3j3Ke0DPx6r3Te1oISEzaF"
+  },
+  "audiosvora": {
+    "original_name": "Audiosvora",
+    "url": "https://open.spotify.com/artist/4c4iMyDE37aiJDXOXdSSjN",
+    "artist_id": "4c4iMyDE37aiJDXOXdSSjN"
+  },
+  "castiel": {
+    "original_name": "Castiel",
+    "url": "https://open.spotify.com/artist/7aT5jcNtxAhoZXjOgXBudG",
+    "artist_id": "7aT5jcNtxAhoZXjOgXBudG"
+  },
+  "abated mass of flesh": {
+    "original_name": "Abated Mass Of Flesh",
+    "url": "https://open.spotify.com/artist/25xya1HMsF8Y6cQrMfAmME",
+    "artist_id": "25xya1HMsF8Y6cQrMfAmME"
+  },
+  "shallow dissent": {
+    "original_name": "Shallow Dissent",
+    "url": "https://open.spotify.com/artist/6A7uxd2a7b2PhPXx6GD7hR",
+    "artist_id": "6A7uxd2a7b2PhPXx6GD7hR"
+  },
+  "existentialist": {
+    "original_name": "Existentialist",
+    "url": "https://open.spotify.com/artist/4wLNwOLv2VRH88SncD9yD5",
+    "artist_id": "4wLNwOLv2VRH88SncD9yD5"
+  },
+  "wounded masquerade": {
+    "original_name": "Wounded Masquerade",
+    "url": "https://open.spotify.com/artist/7Gv9v2IMqDwzQPhx2ZkJHS",
+    "artist_id": "7Gv9v2IMqDwzQPhx2ZkJHS"
+  },
+  "satanic tea co": {
+    "original_name": "Satanic Tea Co",
+    "url": "https://open.spotify.com/artist/70sEsN5hAp8TT8oBEqaknu",
+    "artist_id": "70sEsN5hAp8TT8oBEqaknu"
+  },
+  "weltenbrand": {
+    "original_name": "Weltenbrand",
+    "url": "https://open.spotify.com/artist/5JKlu3Rov4jP330qFXO1K2",
+    "artist_id": "5JKlu3Rov4jP330qFXO1K2"
+  },
+  "as december falls": {
+    "original_name": "As December Falls",
+    "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX",
+    "artist_id": "7Atp614yT56v9XrlqZryzX"
+  },
+  "when plagues collide": {
+    "original_name": "When Plagues Collide",
+    "url": "https://open.spotify.com/artist/04bY1Dfz2i4lQXmaEuPziP",
+    "artist_id": "04bY1Dfz2i4lQXmaEuPziP"
+  },
+  "maiasaura": {
+    "original_name": "MAIASAURA",
+    "url": "https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX",
+    "artist_id": "62mm8csnxeh1rBGa9fBrRX"
+  },
+  "imha tarikat": {
+    "original_name": "Imha Tarikat",
+    "url": "https://open.spotify.com/artist/0Cor5wxhCtEuSz85zFb9qY",
+    "artist_id": "0Cor5wxhCtEuSz85zFb9qY"
+  },
+  "peepeepoopooballsectomy": {
+    "original_name": "Peepeepoopooballsectomy",
+    "url": "https://open.spotify.com/artist/6a3hxIvsLj74GWFSWRDfEf",
+    "artist_id": "6a3hxIvsLj74GWFSWRDfEf"
+  },
+  "wocket launcher": {
+    "original_name": "Wocket Launcher",
+    "url": "https://open.spotify.com/artist/2Mjd1NkuklsoH66StKZaVo",
+    "artist_id": "2Mjd1NkuklsoH66StKZaVo"
+  },
+  "electron": {
+    "original_name": "Electron",
+    "url": "https://open.spotify.com/artist/3xYNGCooNIzKMAtJYKSOyq",
+    "artist_id": "3xYNGCooNIzKMAtJYKSOyq"
+  },
+  "dessiderium": {
+    "original_name": "Dessiderium",
+    "url": "https://open.spotify.com/artist/1pwkOqY72tFaGnjdnRU7gv",
+    "artist_id": "1pwkOqY72tFaGnjdnRU7gv"
+  },
+  "raging sea": {
+    "original_name": "Raging Sea",
+    "url": "https://open.spotify.com/artist/3EI7GXHgQNi22AQcPpcyjJ",
+    "artist_id": "3EI7GXHgQNi22AQcPpcyjJ"
+  },
+  "carnivxrous": {
+    "original_name": "CARNIVXROUS",
+    "url": "https://open.spotify.com/artist/2awGW9UcWt2B4YBTaZ0FFp",
+    "artist_id": "2awGW9UcWt2B4YBTaZ0FFp"
+  },
+  "violent answer": {
+    "original_name": "Violent Answer",
+    "url": "https://open.spotify.com/artist/6SN2lBX5sn8lNdd0rRiLEK",
+    "artist_id": "6SN2lBX5sn8lNdd0rRiLEK"
+  },
+  "embers uk": {
+    "original_name": "Embers UK",
+    "url": "https://open.spotify.com/artist/31D2V0AjbXUc2AV7mi9CDl",
+    "artist_id": "31D2V0AjbXUc2AV7mi9CDl"
+  },
+  "von sexto": {
+    "original_name": "Von Sexto",
+    "url": "https://open.spotify.com/artist/4yuJosmMF0fybouOWVJeME",
+    "artist_id": "4yuJosmMF0fybouOWVJeME"
+  },
+  "killing floor 3": {
+    "original_name": "Killing Floor 3",
+    "url": "https://open.spotify.com/artist/4fzHMaix3x1KZPqy446wdD",
+    "artist_id": "4fzHMaix3x1KZPqy446wdD"
+  },
+  "provenance": {
+    "original_name": "Provenance",
+    "url": "https://open.spotify.com/artist/4Wtl55fm6rIsJ3db1o7HGg",
+    "artist_id": "4Wtl55fm6rIsJ3db1o7HGg"
+  },
+  "wulkanaz": {
+    "original_name": "Wulkanaz",
+    "url": "https://open.spotify.com/artist/2c1uH1emx3CCrijqUoPoid",
+    "artist_id": "2c1uH1emx3CCrijqUoPoid"
+  },
+  "celestial scourge": {
+    "original_name": "Celestial Scourge",
+    "url": "https://open.spotify.com/artist/5Aa9MZcjlFt2UbAlpyqTJn",
+    "artist_id": "5Aa9MZcjlFt2UbAlpyqTJn"
+  },
+  "save your last breath": {
+    "original_name": "Save Your Last Breath",
+    "url": "https://open.spotify.com/artist/0hBm2QYhidDmnMFoQ7Vchw",
+    "artist_id": "0hBm2QYhidDmnMFoQ7Vchw"
+  },
+  "jonathan young": {
+    "original_name": "Jonathan Young",
+    "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl",
+    "artist_id": "2IeMt1qx6ZVt1HFjdfE5tl"
+  },
+  "\u7518\u3044\u66b4\u529b": {
+    "original_name": "\u7518\u3044\u66b4\u529b",
+    "url": "https://open.spotify.com/artist/16Sq7Ciitf4Ii8F6WYD6qw",
+    "artist_id": "16Sq7Ciitf4Ii8F6WYD6qw"
+  },
+  "error": {
+    "original_name": "Error",
+    "url": "https://open.spotify.com/artist/0H0fZAyMbBJIOPfjK2BxZx",
+    "artist_id": "0H0fZAyMbBJIOPfjK2BxZx"
+  },
+  "brick by brick": {
+    "original_name": "Brick By Brick",
+    "url": "https://open.spotify.com/artist/1GkLRi7GvBTJVbmrMLiFFA",
+    "artist_id": "1GkLRi7GvBTJVbmrMLiFFA"
+  },
+  "lyrica": {
+    "original_name": "Lyrica",
+    "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly",
+    "artist_id": "3VrGfWE8YdYMK4ySpnE0ly"
+  },
+  "hypermass": {
+    "original_name": "Hypermass",
+    "url": "https://open.spotify.com/artist/19h9bDwuAaZO8HAUdWhnIY",
+    "artist_id": "19h9bDwuAaZO8HAUdWhnIY"
+  },
+  "lunity": {
+    "original_name": "Lunity",
+    "url": "https://open.spotify.com/artist/2OgKPh1xCLvA9C8CXfFABo",
+    "artist_id": "2OgKPh1xCLvA9C8CXfFABo"
+  },
+  "dawn of ouroboros": {
+    "original_name": "Dawn of Ouroboros",
+    "url": "https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX",
+    "artist_id": "10QeC2Z1BJ2nywykFZZ5JX"
+  },
+  "sid white": {
+    "original_name": "Sid White",
+    "url": "https://open.spotify.com/artist/3edyeCg5jIBvWBZm0Y5syB",
+    "artist_id": "3edyeCg5jIBvWBZm0Y5syB"
+  },
+  "alphasix": {
+    "original_name": "AlphaSix",
+    "url": "https://open.spotify.com/artist/2o5Ka0pGAjCqwrjWXkCXhl",
+    "artist_id": "2o5Ka0pGAjCqwrjWXkCXhl"
+  },
+  "restricted us": {
+    "original_name": "Restricted US",
+    "url": "https://open.spotify.com/artist/2l2og3NR71roKrKxdRoODx",
+    "artist_id": "2l2og3NR71roKrKxdRoODx"
+  },
+  "black spikes": {
+    "original_name": "Black Spikes",
+    "url": "https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ",
+    "artist_id": "5OHs983geoRmnuuRVfB2XQ"
+  },
+  "just dust": {
+    "original_name": "Just Dust",
+    "url": "https://open.spotify.com/artist/0oV9ljsbczX4uZts45Gvmt",
+    "artist_id": "0oV9ljsbczX4uZts45Gvmt"
+  },
+  "oinkliteration": {
+    "original_name": "Oinkliteration",
+    "url": "https://open.spotify.com/artist/6v1GGy8FLTyKI1KlKN1lMD",
+    "artist_id": "6v1GGy8FLTyKI1KlKN1lMD"
+  },
+  "kin beneath chorus": {
+    "original_name": "Kin Beneath Chorus",
+    "url": "https://open.spotify.com/artist/72IXBWh7gzDssxkNjOpnLx",
+    "artist_id": "72IXBWh7gzDssxkNjOpnLx"
+  },
+  "tzusing": {
+    "original_name": "Tzusing",
+    "url": "https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s",
+    "artist_id": "7Ifvnt1HhJ0b1QwOxLAu2s"
+  },
+  "fayence dream": {
+    "original_name": "Fayence Dream",
+    "url": "https://open.spotify.com/artist/1ynPv8NCp4kCQR24UQZ98B",
+    "artist_id": "1ynPv8NCp4kCQR24UQZ98B"
+  },
+  "hvste": {
+    "original_name": "HVSTE",
+    "url": "https://open.spotify.com/artist/68oBwjIPa7c33gpvSwVUXf",
+    "artist_id": "68oBwjIPa7c33gpvSwVUXf"
+  },
+  "return to glory": {
+    "original_name": "Return to Glory",
+    "url": "https://open.spotify.com/artist/5e0tDxxIzCiqscNL5FXtp4",
+    "artist_id": "5e0tDxxIzCiqscNL5FXtp4"
+  },
+  "walg": {
+    "original_name": "Walg",
+    "url": "https://open.spotify.com/artist/6sSvlAu7Q8NDcNkn3C0TvZ",
+    "artist_id": "6sSvlAu7Q8NDcNkn3C0TvZ"
+  },
+  "sepulchral curse": {
+    "original_name": "Sepulchral Curse",
+    "url": "https://open.spotify.com/artist/1BErAfRIE2RyEfcgiUdLmw",
+    "artist_id": "1BErAfRIE2RyEfcgiUdLmw"
+  },
+  "xstitch": {
+    "original_name": "Xstitch",
+    "url": "https://open.spotify.com/artist/48XnAkszrQbCOtnvArQ4uC",
+    "artist_id": "48XnAkszrQbCOtnvArQ4uC"
+  },
+  "into the vein": {
+    "original_name": "Into The Vein",
+    "url": "https://open.spotify.com/artist/1FklvdgEAAOBSuwd9jSOjw",
+    "artist_id": "1FklvdgEAAOBSuwd9jSOjw"
+  },
+  "his kingdom suffers": {
+    "original_name": "His Kingdom Suffers",
+    "url": "https://open.spotify.com/artist/2YBt8POPqmR4f6chqIUlU6",
+    "artist_id": "2YBt8POPqmR4f6chqIUlU6"
+  },
+  "horns": {
+    "original_name": "Horns",
+    "url": "https://open.spotify.com/artist/2kfsTSmYcCZa0UXjpRi6Ow",
+    "artist_id": "2kfsTSmYcCZa0UXjpRi6Ow"
+  },
+  "basterds": {
+    "original_name": "Basterds",
+    "url": "https://open.spotify.com/artist/6xVKy3vtmK37fIthk9ic3o",
+    "artist_id": "6xVKy3vtmK37fIthk9ic3o"
+  },
+  "ark\u00e1ngel": {
+    "original_name": "Ark\u00e1ngel",
+    "url": "https://open.spotify.com/artist/7oqi2LqmRQJ9rtj52YgIlK",
+    "artist_id": "7oqi2LqmRQJ9rtj52YgIlK"
+  },
+  "torn from oblivion": {
+    "original_name": "Torn From Oblivion",
+    "url": "https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS",
+    "artist_id": "5IXqeHYM84k26hwnTNDuZS"
+  },
+  "absurd": {
+    "original_name": "Absurd",
+    "url": "https://open.spotify.com/artist/0h8HY1OBhsozbbh0xU7LXQ",
+    "artist_id": "0h8HY1OBhsozbbh0xU7LXQ"
+  },
+  "pillars of autumn": {
+    "original_name": "Pillars of Autumn",
+    "url": "https://open.spotify.com/artist/76CrlDiJhyYdZLzTx8oY0A",
+    "artist_id": "76CrlDiJhyYdZLzTx8oY0A"
+  },
+  "trvsh": {
+    "original_name": "TRVSH",
+    "url": "https://open.spotify.com/artist/1LphWUG3zLcpwC584C32qG",
+    "artist_id": "1LphWUG3zLcpwC584C32qG"
+  },
+  "draven": {
+    "original_name": "Draven",
+    "url": "https://open.spotify.com/artist/7vZ5ihO2B5uR2cvEO7CWSt",
+    "artist_id": "7vZ5ihO2B5uR2cvEO7CWSt"
+  },
+  "fracture": {
+    "original_name": "FRACTURE",
+    "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70",
+    "artist_id": "7sjRnhONmeFL1tmlUvdq70"
+  },
+  "mirabi frame": {
+    "original_name": "Mirabi Frame",
+    "url": "https://open.spotify.com/artist/3JnHTeBoA42hEQtEpScYt2",
+    "artist_id": "3JnHTeBoA42hEQtEpScYt2"
+  },
+  "retromorphosis": {
+    "original_name": "Retromorphosis",
+    "url": "https://open.spotify.com/artist/0fBVXSuBO4MlVPMmugfW7L",
+    "artist_id": "0fBVXSuBO4MlVPMmugfW7L"
+  },
+  "nathan james": {
+    "original_name": "Nathan James",
+    "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS",
+    "artist_id": "0yvTRHK90NHy9NI4RhEEYS"
+  },
+  "voidfallen": {
+    "original_name": "Voidfallen",
+    "url": "https://open.spotify.com/artist/4eWXxCQ177IPhc5P56RieY",
+    "artist_id": "4eWXxCQ177IPhc5P56RieY"
+  },
+  "nerveless": {
+    "original_name": "Nerveless",
+    "url": "https://open.spotify.com/artist/2eZVzpqC41qs4cq7Ku0mTM",
+    "artist_id": "2eZVzpqC41qs4cq7Ku0mTM"
+  },
+  "sinizter": {
+    "original_name": "Sinizter",
+    "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8",
+    "artist_id": "5owshUGXR3vxuTQqfo28Q8"
+  },
+  "imperishable": {
+    "original_name": "Imperishable",
+    "url": "https://open.spotify.com/artist/0V9iSPRTE4WRgXZ6DPZAsC",
+    "artist_id": "0V9iSPRTE4WRgXZ6DPZAsC"
+  },
+  "maestrick": {
+    "original_name": "Maestrick",
+    "url": "https://open.spotify.com/artist/5zsg4P6lTHHjQwTCzn74sX",
+    "artist_id": "5zsg4P6lTHHjQwTCzn74sX"
+  },
+  "unreqvited": {
+    "original_name": "Unreqvited",
+    "url": "https://open.spotify.com/artist/1ZYRTJCj869ya07OpEAlGR",
+    "artist_id": "1ZYRTJCj869ya07OpEAlGR"
+  },
+  "halt or i'll shoot!": {
+    "original_name": "Halt Or I'll Shoot!",
+    "url": "https://open.spotify.com/artist/468QswTCDtVjx5eHSrs4Q9",
+    "artist_id": "468QswTCDtVjx5eHSrs4Q9"
+  },
+  "flaccid genitals": {
+    "original_name": "Flaccid Genitals",
+    "url": "https://open.spotify.com/artist/17qWFTTFR8C0jlnVo1r2zv",
+    "artist_id": "17qWFTTFR8C0jlnVo1r2zv"
+  },
+  "pure hate": {
+    "original_name": "Pure Hate",
+    "url": "https://open.spotify.com/artist/1KGfgZyUDfSuE1hPToBbo6",
+    "artist_id": "1KGfgZyUDfSuE1hPToBbo6"
+  },
+  "open kasket": {
+    "original_name": "Open Kasket",
+    "url": "https://open.spotify.com/artist/5SMXhyH6Z377dagl3oh8cq",
+    "artist_id": "5SMXhyH6Z377dagl3oh8cq"
+  },
+  "descarnado": {
+    "original_name": "Descarnado",
+    "url": "https://open.spotify.com/artist/54v7BpwM187QiAXvivhqqB",
+    "artist_id": "54v7BpwM187QiAXvivhqqB"
+  },
+  "staticlone": {
+    "original_name": "Staticlone",
+    "url": "https://open.spotify.com/artist/5qjpZpwuGtOkwajRLirQpK",
+    "artist_id": "5qjpZpwuGtOkwajRLirQpK"
+  },
+  "pathogenic": {
+    "original_name": "Pathogenic",
+    "url": "https://open.spotify.com/artist/4VxcDWS0jI6ATP6mMKvuYz",
+    "artist_id": "4VxcDWS0jI6ATP6mMKvuYz"
+  },
+  "mutagenic host": {
+    "original_name": "Mutagenic Host",
+    "url": "https://open.spotify.com/artist/1wCbLCKRVkWAmC9wNWEAbd",
+    "artist_id": "1wCbLCKRVkWAmC9wNWEAbd"
+  },
+  "ex deo": {
+    "original_name": "Ex Deo",
+    "url": "https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA",
+    "artist_id": "7jBfzxUkrHRmy6EezZuegA"
+  },
+  "inimical drive": {
+    "original_name": "Inimical Drive",
+    "url": "https://open.spotify.com/artist/5sonzPrYbTzF9ehyQaBKkj",
+    "artist_id": "5sonzPrYbTzF9ehyQaBKkj"
+  },
+  "dark watch": {
+    "original_name": "Dark Watch",
+    "url": "https://open.spotify.com/artist/4SHtvWSnrLeO9L14XKyvax",
+    "artist_id": "4SHtvWSnrLeO9L14XKyvax"
+  },
+  "sakura": {
+    "original_name": "SAKURA",
+    "url": "https://open.spotify.com/artist/54Ue9wxRtRQFYcys8fe3ZV",
+    "artist_id": "54Ue9wxRtRQFYcys8fe3ZV"
+  },
+  "violent end": {
+    "original_name": "Violent End",
+    "url": "https://open.spotify.com/artist/1pCwQLcfOgQLaYAGWYr9dA",
+    "artist_id": "1pCwQLcfOgQLaYAGWYr9dA"
+  },
+  "znous": {
+    "original_name": "Znous",
+    "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx",
+    "artist_id": "3Z5dr3yRC0mbwGzkGoCYyx"
+  },
+  "denouement.": {
+    "original_name": "Denouement.",
+    "url": "https://open.spotify.com/artist/6PZf7Al3nmgU0lJPThIodm",
+    "artist_id": "6PZf7Al3nmgU0lJPThIodm"
+  },
+  "shell shock": {
+    "original_name": "Shell Shock",
+    "url": "https://open.spotify.com/artist/3OQSGtX8rYSbFIe4x3fDif",
+    "artist_id": "3OQSGtX8rYSbFIe4x3fDif"
+  },
+  "livealie": {
+    "original_name": "Livealie",
+    "url": "https://open.spotify.com/artist/5Ck7nbwgyYJubl5wxBW4ML",
+    "artist_id": "5Ck7nbwgyYJubl5wxBW4ML"
+  },
+  "the defect": {
+    "original_name": "THE DEFECT",
+    "url": "https://open.spotify.com/artist/1evFjl4E6CgPNPjSpN2wzA",
+    "artist_id": "1evFjl4E6CgPNPjSpN2wzA"
+  },
+  "the rising tide": {
+    "original_name": "The Rising Tide",
+    "url": "https://open.spotify.com/artist/6J5BtB2LbBfRFl91rOoXEB",
+    "artist_id": "6J5BtB2LbBfRFl91rOoXEB"
+  },
+  "scalpture": {
+    "original_name": "Scalpture",
+    "url": "https://open.spotify.com/artist/24ayf6ObGs5kWru2VHRCjv",
+    "artist_id": "24ayf6ObGs5kWru2VHRCjv"
+  },
+  "the deserted": {
+    "original_name": "The Deserted",
+    "url": "https://open.spotify.com/artist/2XEFLskbiLeELMMDp1tHmS",
+    "artist_id": "2XEFLskbiLeELMMDp1tHmS"
+  },
+  "love like enemies": {
+    "original_name": "Love Like Enemies",
+    "url": "https://open.spotify.com/artist/2VCRd5F9I0nurK4HrSpVM2",
+    "artist_id": "2VCRd5F9I0nurK4HrSpVM2"
+  },
+  "bvck bend": {
+    "original_name": "BVCK BEND",
+    "url": "https://open.spotify.com/artist/0W4hHxZwuN3dO56O1znI5t",
+    "artist_id": "0W4hHxZwuN3dO56O1znI5t"
+  },
+  "dread": {
+    "original_name": "Dread",
+    "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR",
+    "artist_id": "1aw0Cdl1DIrtUrUA6fGbAR"
+  },
+  "planetary ghost": {
+    "original_name": "Planetary Ghost",
+    "url": "https://open.spotify.com/artist/5jr6VoNOOlDmUlQ8gW3YUL",
+    "artist_id": "5jr6VoNOOlDmUlQ8gW3YUL"
+  },
+  "batch89": {
+    "original_name": "Batch89",
+    "url": "https://open.spotify.com/artist/3nQmlRVL7cS39AJV0SQCbL",
+    "artist_id": "3nQmlRVL7cS39AJV0SQCbL"
+  },
+  "6 weapons": {
+    "original_name": "6 Weapons",
+    "url": "https://open.spotify.com/artist/51BY42XevaEOKMfWcCgdFT",
+    "artist_id": "51BY42XevaEOKMfWcCgdFT"
+  },
+  "aggressive raisin cat": {
+    "original_name": "Aggressive Raisin Cat",
+    "url": "https://open.spotify.com/artist/7BFFCrMT0jUIZ29H6BTys2",
+    "artist_id": "7BFFCrMT0jUIZ29H6BTys2"
+  },
+  "zemeth": {
+    "original_name": "Zemeth",
+    "url": "https://open.spotify.com/artist/3iIwFstdYwT1mrPgNqTUVY",
+    "artist_id": "3iIwFstdYwT1mrPgNqTUVY"
+  },
+  "jose halftime": {
+    "original_name": "Jose Halftime",
+    "url": "https://open.spotify.com/artist/2xx1Fyt9ffNw36ragh8pBa",
+    "artist_id": "2xx1Fyt9ffNw36ragh8pBa"
+  },
+  "phase.shift.": {
+    "original_name": "phase.shift.",
+    "url": "https://open.spotify.com/artist/2mIEOoqSOsMIZ6UL0YJT2e",
+    "artist_id": "2mIEOoqSOsMIZ6UL0YJT2e"
+  },
+  "cuntfull of concrete": {
+    "original_name": "CuntFull Of Concrete",
+    "url": "https://open.spotify.com/artist/02piNXeV8PA31G3d6UIKxW",
+    "artist_id": "02piNXeV8PA31G3d6UIKxW"
+  },
+  "worm infested": {
+    "original_name": "Worm Infested",
+    "url": "https://open.spotify.com/artist/7kOvNG3K2fMnXB81TEd13R",
+    "artist_id": "7kOvNG3K2fMnXB81TEd13R"
+  },
+  "blindwolf": {
+    "original_name": "blindwolf",
+    "url": "https://open.spotify.com/artist/679GLOGOMxdgbi7BBKMogd",
+    "artist_id": "679GLOGOMxdgbi7BBKMogd"
+  },
+  "stenched": {
+    "original_name": "Stenched",
+    "url": "https://open.spotify.com/artist/0D8H7XwaPa1sHEEeRzbnSX",
+    "artist_id": "0D8H7XwaPa1sHEEeRzbnSX"
+  },
+  "roju": {
+    "original_name": "Roju",
+    "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi",
+    "artist_id": "04mTej6RpWzBxGwhfThpIi"
+  },
+  "the gates of slumber": {
+    "original_name": "The Gates Of Slumber",
+    "url": "https://open.spotify.com/artist/30ZFCxaQeisDgihIZyjOlj",
+    "artist_id": "30ZFCxaQeisDgihIZyjOlj"
+  },
+  "otis vcr": {
+    "original_name": "OTIS VCR",
+    "url": "https://open.spotify.com/artist/1MRpS03w7O7TTpGLCmhSMp",
+    "artist_id": "1MRpS03w7O7TTpGLCmhSMp"
+  },
+  "lord agheros": {
+    "original_name": "Lord Agheros",
+    "url": "https://open.spotify.com/artist/6zUpMgFggd8OpP4tVFIBFZ",
+    "artist_id": "6zUpMgFggd8OpP4tVFIBFZ"
+  },
+  "exuvial": {
+    "original_name": "Exuvial",
+    "url": "https://open.spotify.com/artist/40OMuh0Xg1qdN2JKxJj5Mr",
+    "artist_id": "40OMuh0Xg1qdN2JKxJj5Mr"
+  },
+  "terrorpy": {
+    "original_name": "Terrorpy",
+    "url": "https://open.spotify.com/artist/3eLYDi1Rzl0Y9UPJkFFpKG",
+    "artist_id": "3eLYDi1Rzl0Y9UPJkFFpKG"
+  },
+  "of grace": {
+    "original_name": "Of Grace",
+    "url": "https://open.spotify.com/artist/0fk7EeoMrQyBltSnppBQys",
+    "artist_id": "0fk7EeoMrQyBltSnppBQys"
+  },
+  "product of neglect": {
+    "original_name": "Product of Neglect",
+    "url": "https://open.spotify.com/artist/6uonq4XdmX0uUXGGm9aMld",
+    "artist_id": "6uonq4XdmX0uUXGGm9aMld"
+  },
+  "turnpike": {
+    "original_name": "Turnpike",
+    "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03",
+    "artist_id": "1YSA4byX5AL1zoTsSTlB03"
+  },
+  "vapid soul": {
+    "original_name": "Vapid Soul",
+    "url": "https://open.spotify.com/artist/7kIjHc6jSwTdfG49g2VMN9",
+    "artist_id": "7kIjHc6jSwTdfG49g2VMN9"
+  },
+  "thin the herd": {
+    "original_name": "Thin the Herd",
+    "url": "https://open.spotify.com/artist/5adJCDS7L4dPycqJlZZkvM",
+    "artist_id": "5adJCDS7L4dPycqJlZZkvM"
+  },
+  "signals": {
+    "original_name": "SIGNALS",
+    "url": "https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF",
+    "artist_id": "16AdioxYOukoGrCeLV9QGF"
+  },
+  "bimopd": {
+    "original_name": "Bimopd",
+    "url": "https://open.spotify.com/artist/2XvjzM97hdxo1Bd5GoydUY",
+    "artist_id": "2XvjzM97hdxo1Bd5GoydUY"
+  },
+  "czort": {
+    "original_name": "Czort",
+    "url": "https://open.spotify.com/artist/4ihicgHjO5lvqOWoCvNSQI",
+    "artist_id": "4ihicgHjO5lvqOWoCvNSQI"
+  },
+  "crimson thorn": {
+    "original_name": "Crimson Thorn",
+    "url": "https://open.spotify.com/artist/28PjS3NGOb3SF6lkXQjagb",
+    "artist_id": "28PjS3NGOb3SF6lkXQjagb"
+  },
+  "winter's gate": {
+    "original_name": "Winter's Gate",
+    "url": "https://open.spotify.com/artist/3yrxaVCuqAeYk2ICB5XshG",
+    "artist_id": "3yrxaVCuqAeYk2ICB5XshG"
+  },
+  "killboy": {
+    "original_name": "KILLBOY",
+    "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm",
+    "artist_id": "3lPSkTq1kiSuxDcr996Nlm"
+  },
+  "lazygod": {
+    "original_name": "LazyGod",
+    "url": "https://open.spotify.com/artist/3J3negcFx75yXuXLF3NaEn",
+    "artist_id": "3J3negcFx75yXuXLF3NaEn"
+  },
+  "the words we use": {
+    "original_name": "The Words We Use",
+    "url": "https://open.spotify.com/artist/4NzlVVIKbkYRkp8hr6toEi",
+    "artist_id": "4NzlVVIKbkYRkp8hr6toEi"
+  },
+  "mononc' serge": {
+    "original_name": "Mononc' Serge",
+    "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1",
+    "artist_id": "35BsDVEPHGqz4fPhlRJHB1"
+  },
+  "oklahoma blood": {
+    "original_name": "Oklahoma Blood",
+    "url": "https://open.spotify.com/artist/3VWtc8vkXd485dITC0fiUn",
+    "artist_id": "3VWtc8vkXd485dITC0fiUn"
+  },
+  "symphony of heaven": {
+    "original_name": "Symphony of Heaven",
+    "url": "https://open.spotify.com/artist/0Z89pkvtCeYDMqnprmJHDJ",
+    "artist_id": "0Z89pkvtCeYDMqnprmJHDJ"
+  },
+  "into nothing": {
+    "original_name": "Into Nothing",
+    "url": "https://open.spotify.com/artist/2KnXs7VOvfp1D0GZPz58xT",
+    "artist_id": "2KnXs7VOvfp1D0GZPz58xT"
+  },
+  "eyesawgod": {
+    "original_name": "Eyesawgod",
+    "url": "https://open.spotify.com/artist/3EON09HWo5VbmyRZBh39q7",
+    "artist_id": "3EON09HWo5VbmyRZBh39q7"
+  },
+  "haggus": {
+    "original_name": "Haggus",
+    "url": "https://open.spotify.com/artist/16wnsPfzB98xYLLSJLPh3e",
+    "artist_id": "16wnsPfzB98xYLLSJLPh3e"
+  },
+  "officer down": {
+    "original_name": "Officer Down",
+    "url": "https://open.spotify.com/artist/4jPzFlLY7SSkYi6LpEGtlN",
+    "artist_id": "4jPzFlLY7SSkYi6LpEGtlN"
+  },
+  "sick solution": {
+    "original_name": "Sick Solution",
+    "url": "https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6",
+    "artist_id": "5I8Ea6B50cE6NR6HL6BHa6"
+  },
+  "admire the grim": {
+    "original_name": "Admire the Grim",
+    "url": "https://open.spotify.com/artist/02jaI5XYUmrDbYrk7I0W02",
+    "artist_id": "02jaI5XYUmrDbYrk7I0W02"
+  },
+  "nouri yetgin": {
+    "original_name": "Nouri Yetgin",
+    "url": "https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap",
+    "artist_id": "4QWhRZYvNeYXSBkfW9hCap"
+  },
+  "tracheotomy": {
+    "original_name": "Tracheotomy",
+    "url": "https://open.spotify.com/artist/54e41DCKjcJiMGf3D4mH6L",
+    "artist_id": "54e41DCKjcJiMGf3D4mH6L"
+  },
+  "ziplock": {
+    "original_name": "ZIPLOCK",
+    "url": "https://open.spotify.com/artist/653R6cmT8tA6ba0IJ4ZsgN",
+    "artist_id": "653R6cmT8tA6ba0IJ4ZsgN"
+  },
+  "greens on toast": {
+    "original_name": "Greens On Toast",
+    "url": "https://open.spotify.com/artist/6mPXPuAm0BOiXPbvqUveqC",
+    "artist_id": "6mPXPuAm0BOiXPbvqUveqC"
+  },
+  "krosis": {
+    "original_name": "Krosis",
+    "url": "https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy",
+    "artist_id": "7gfEb4adETwNZgWLUlcHQy"
+  },
+  "expellow": {
+    "original_name": "Expellow",
+    "url": "https://open.spotify.com/artist/7n7ZqJDzdKrZul0UjAWUhC",
+    "artist_id": "7n7ZqJDzdKrZul0UjAWUhC"
+  },
+  "heartless fendi": {
+    "original_name": "Heartless Fendi",
+    "url": "https://open.spotify.com/artist/5PQ6Mx3EaC75kwZq0P9JK5",
+    "artist_id": "5PQ6Mx3EaC75kwZq0P9JK5"
+  },
+  "andy strider": {
+    "original_name": "Andy Strider",
+    "url": "https://open.spotify.com/artist/3JSA46GzPRMj9nev5VqSEg",
+    "artist_id": "3JSA46GzPRMj9nev5VqSEg"
+  },
+  "actus reus": {
+    "original_name": "Actus Reus",
+    "url": "https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK",
+    "artist_id": "4C4RlxUxFJDNAtJRRyIsBK"
+  },
+  "faceless enemy": {
+    "original_name": "Faceless Enemy",
+    "url": "https://open.spotify.com/artist/45RPXUbkBXzBcGJwfQQ044",
+    "artist_id": "45RPXUbkBXzBcGJwfQQ044"
+  },
+  "harbored dreams": {
+    "original_name": "Harbored Dreams",
+    "url": "https://open.spotify.com/artist/14WeLfhJinpzcn2uzwW1fC",
+    "artist_id": "14WeLfhJinpzcn2uzwW1fC"
+  },
+  "scavenger's daughter": {
+    "original_name": "Scavenger's Daughter",
+    "url": "https://open.spotify.com/artist/2d4CFhAXVh0fjoZnRMB9Rz",
+    "artist_id": "2d4CFhAXVh0fjoZnRMB9Rz"
+  },
+  "ingurgitating oblivion": {
+    "original_name": "Ingurgitating Oblivion",
+    "url": "https://open.spotify.com/artist/3mcu8G0HBrlj0zlmvAjEwt",
+    "artist_id": "3mcu8G0HBrlj0zlmvAjEwt"
+  },
+  "never.dc": {
+    "original_name": "Never.dc",
+    "url": "https://open.spotify.com/artist/4XZ71fL4sNKh4tCSdqxgNQ",
+    "artist_id": "4XZ71fL4sNKh4tCSdqxgNQ"
+  },
+  "floscule": {
+    "original_name": "Floscule",
+    "url": "https://open.spotify.com/artist/3myXeA61vpk5Rm2ReaipNL",
+    "artist_id": "3myXeA61vpk5Rm2ReaipNL"
+  },
+  "monumentum damnati": {
+    "original_name": "Monumentum Damnati",
+    "url": "https://open.spotify.com/artist/15BMlJVtfIePlmiPbWA0bV",
+    "artist_id": "15BMlJVtfIePlmiPbWA0bV"
+  },
+  "counter attack id": {
+    "original_name": "Counter Attack ID",
+    "url": "https://open.spotify.com/artist/5AOm8VP68OyRJkqBp8qJfb",
+    "artist_id": "5AOm8VP68OyRJkqBp8qJfb"
+  },
+  "scalp scrape": {
+    "original_name": "Scalp Scrape",
+    "url": "https://open.spotify.com/artist/5BNj63TsPEbWkguDIbQJF4",
+    "artist_id": "5BNj63TsPEbWkguDIbQJF4"
+  },
+  "lament ov lilith": {
+    "original_name": "Lament Ov Lilith",
+    "url": "https://open.spotify.com/artist/5lHk90ZAT3LJEgFCRVAiom",
+    "artist_id": "5lHk90ZAT3LJEgFCRVAiom"
+  },
+  "chaos must bow": {
+    "original_name": "Chaos Must Bow",
+    "url": "https://open.spotify.com/artist/1ZcfyGwv6tsXg5mrxbQ3Oa",
+    "artist_id": "1ZcfyGwv6tsXg5mrxbQ3Oa"
+  },
+  "dezert": {
+    "original_name": "DEZERT",
+    "url": "https://open.spotify.com/artist/0h2eYJXbXb0n9hBf3NgfGh",
+    "artist_id": "0h2eYJXbXb0n9hBf3NgfGh"
+  },
+  "may forth": {
+    "original_name": "May Forth",
+    "url": "https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj",
+    "artist_id": "6MYn2A1crz0GWAqp2Ctyxj"
+  },
+  "hell let loose": {
+    "original_name": "Hell Let Loose",
+    "url": "https://open.spotify.com/artist/0N2zUjBNKcrKhtpkpjvJi7",
+    "artist_id": "0N2zUjBNKcrKhtpkpjvJi7"
+  },
+  "beastplague": {
+    "original_name": "Beastplague",
+    "url": "https://open.spotify.com/artist/09KXghiszxu6gx1nxwufLm",
+    "artist_id": "09KXghiszxu6gx1nxwufLm"
+  },
+  "a ghost of flare": {
+    "original_name": "A Ghost Of Flare",
+    "url": "https://open.spotify.com/artist/0EEhMPSek1fEqWlXbNZB8X",
+    "artist_id": "0EEhMPSek1fEqWlXbNZB8X"
+  },
+  "von spriggan": {
+    "original_name": "Von Spriggan",
+    "url": "https://open.spotify.com/artist/0ETqTTpMXgqLvMoe9gemNa",
+    "artist_id": "0ETqTTpMXgqLvMoe9gemNa"
+  },
+  "snake father": {
+    "original_name": "Snake Father",
+    "url": "https://open.spotify.com/artist/6FZ2uzntEihvFpuxVv7i8r",
+    "artist_id": "6FZ2uzntEihvFpuxVv7i8r"
+  },
+  "chained saint": {
+    "original_name": "Chained Saint",
+    "url": "https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd",
+    "artist_id": "6JChzL9HQEspINhiTqSURd"
+  },
+  "submerged": {
+    "original_name": "Submerged",
+    "url": "https://open.spotify.com/artist/21y70tZeaitnjtvs52wjBk",
+    "artist_id": "21y70tZeaitnjtvs52wjBk"
+  },
+  "shallow rising": {
+    "original_name": "Shallow Rising",
+    "url": "https://open.spotify.com/artist/6PbcjTLZkr6q5QN1pFjP7n",
+    "artist_id": "6PbcjTLZkr6q5QN1pFjP7n"
+  },
+  "thousand frames": {
+    "original_name": "Thousand Frames",
+    "url": "https://open.spotify.com/artist/1hQiBauFKkGx5m9togUnyc",
+    "artist_id": "1hQiBauFKkGx5m9togUnyc"
+  },
+  "terminal nation": {
+    "original_name": "Terminal Nation",
+    "url": "https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96",
+    "artist_id": "10jLinCe6zTTr0ZpSIsx96"
+  },
+  "bite": {
+    "original_name": "Bite",
+    "url": "https://open.spotify.com/artist/1vjaaSHq0FXHmhFFFE8LNZ",
+    "artist_id": "1vjaaSHq0FXHmhFFFE8LNZ"
+  },
+  "apple sauce": {
+    "original_name": "Apple Sauce",
+    "url": "https://open.spotify.com/artist/00kpcbLxSOI9ALtmd5ECmD",
+    "artist_id": "00kpcbLxSOI9ALtmd5ECmD"
+  },
+  "funeral massacre": {
+    "original_name": "Funeral Massacre",
+    "url": "https://open.spotify.com/artist/01YA5RJJO1Ws9LwIHfuqwu",
+    "artist_id": "01YA5RJJO1Ws9LwIHfuqwu"
+  },
+  "larval therapy": {
+    "original_name": "larval therapy",
+    "url": "https://open.spotify.com/artist/7HcjufqXrBlYl8uCI1ep5X",
+    "artist_id": "7HcjufqXrBlYl8uCI1ep5X"
+  },
+  "backbite": {
+    "original_name": "Backbite",
+    "url": "https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL",
+    "artist_id": "190tXONoWX8WcoveP8RuLL"
+  },
+  "disheveled convolution": {
+    "original_name": "Disheveled Convolution",
+    "url": "https://open.spotify.com/artist/2bMka4KrZKGERc3Q9W3Emb",
+    "artist_id": "2bMka4KrZKGERc3Q9W3Emb"
+  },
+  "fentanyl": {
+    "original_name": "Fentanyl",
+    "url": "https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb",
+    "artist_id": "6ymyFsvAhvTJTgOqlFaiGb"
+  },
+  "second wind": {
+    "original_name": "Second Wind",
+    "url": "https://open.spotify.com/artist/009sQb2gmQt4P91PXgCRP3",
+    "artist_id": "009sQb2gmQt4P91PXgCRP3"
+  },
+  "carnophage": {
+    "original_name": "Carnophage",
+    "url": "https://open.spotify.com/artist/6xlw9V9noTEe067ylMvZDe",
+    "artist_id": "6xlw9V9noTEe067ylMvZDe"
+  },
+  "blightfeeder": {
+    "original_name": "Blightfeeder",
+    "url": "https://open.spotify.com/artist/17154CPb5q6AGb9i7XhtTK",
+    "artist_id": "17154CPb5q6AGb9i7XhtTK"
+  },
+  "the delirium effect": {
+    "original_name": "The Delirium Effect",
+    "url": "https://open.spotify.com/artist/2j5PYmTl8wzlrYaUNLSkdY",
+    "artist_id": "2j5PYmTl8wzlrYaUNLSkdY"
+  },
+  "ruins of perception": {
+    "original_name": "Ruins of Perception",
+    "url": "https://open.spotify.com/artist/2s5wWlq89QJWGwnpw0fLdI",
+    "artist_id": "2s5wWlq89QJWGwnpw0fLdI"
+  },
+  "hate within": {
+    "original_name": "Hate Within",
+    "url": "https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv",
+    "artist_id": "27sOHU1c3NaMHTtN5vEVMv"
+  },
+  "bongabonga": {
+    "original_name": "bongabonga",
+    "url": "https://open.spotify.com/artist/2MyiPOWW8jtDSMvsTvOxa7",
+    "artist_id": "2MyiPOWW8jtDSMvsTvOxa7"
+  },
+  "starve": {
+    "original_name": "Starve",
+    "url": "https://open.spotify.com/artist/1ONdGJ5AhScj7Zdw9klJFH",
+    "artist_id": "1ONdGJ5AhScj7Zdw9klJFH"
+  },
+  "garden of serpents": {
+    "original_name": "Garden Of Serpents",
+    "url": "https://open.spotify.com/artist/4Df1zNZGDKIjtowGL6ABMV",
+    "artist_id": "4Df1zNZGDKIjtowGL6ABMV"
+  },
+  "our martyred lady": {
+    "original_name": "Our Martyred Lady",
+    "url": "https://open.spotify.com/artist/3hQht5zRNwzv6eHftPGozr",
+    "artist_id": "3hQht5zRNwzv6eHftPGozr"
+  },
+  "madmans esprit": {
+    "original_name": "Madmans Esprit",
+    "url": "https://open.spotify.com/artist/51oYQ3ekwc7sexxQPIP03j",
+    "artist_id": "51oYQ3ekwc7sexxQPIP03j"
+  },
+  "simulation defect": {
+    "original_name": "Simulation Defect",
+    "url": "https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK",
+    "artist_id": "4qfVotME69mQnnQC6yrnYK"
+  },
+  "sellasouls": {
+    "original_name": "Sellasouls",
+    "url": "https://open.spotify.com/artist/2q1TGIlGwiovxBDVWkJtUb",
+    "artist_id": "2q1TGIlGwiovxBDVWkJtUb"
+  },
+  "sensory amusia": {
+    "original_name": "Sensory Amusia",
+    "url": "https://open.spotify.com/artist/2qz1eX9r3clZayvz003JL2",
+    "artist_id": "2qz1eX9r3clZayvz003JL2"
+  },
+  "lola": {
+    "original_name": "LOLA",
+    "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH",
+    "artist_id": "67FB4n52MgexGQIG8s0yUH"
+  },
+  "complexant": {
+    "original_name": "Complexant",
+    "url": "https://open.spotify.com/artist/66zh3ftuN85voLKArarSEF",
+    "artist_id": "66zh3ftuN85voLKArarSEF"
+  },
+  "shores of lunacy": {
+    "original_name": "Shores Of Lunacy",
+    "url": "https://open.spotify.com/artist/6xXxjJWRStk7C6hteitGN1",
+    "artist_id": "6xXxjJWRStk7C6hteitGN1"
+  },
+  "malora": {
+    "original_name": "Malora",
+    "url": "https://open.spotify.com/artist/4KaM55wyd809Mc3vyRhf4i",
+    "artist_id": "4KaM55wyd809Mc3vyRhf4i"
+  },
+  "vi below": {
+    "original_name": "VI BELOW",
+    "url": "https://open.spotify.com/artist/2FsviknS2HFnHdUeb280M0",
+    "artist_id": "2FsviknS2HFnHdUeb280M0"
+  },
+  "inarius": {
+    "original_name": "Inarius",
+    "url": "https://open.spotify.com/artist/6geSKTmcSkqTrtuRNFDmqy",
+    "artist_id": "6geSKTmcSkqTrtuRNFDmqy"
+  },
+  "miserere": {
+    "original_name": "Miserere",
+    "url": "https://open.spotify.com/artist/7fxVlkmfbp6OkSfBRnyMW3",
+    "artist_id": "7fxVlkmfbp6OkSfBRnyMW3"
+  },
+  "health": {
+    "original_name": "HEALTH",
+    "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth",
+    "artist_id": "6FfjnGXMhxSsJTuGLWBDth"
+  },
+  "among you": {
+    "original_name": "Among You",
+    "url": "https://open.spotify.com/artist/6Qz02nt4isR0wEYnXVn0Ox",
+    "artist_id": "6Qz02nt4isR0wEYnXVn0Ox"
+  },
+  "scabbed": {
+    "original_name": "Scabbed",
+    "url": "https://open.spotify.com/artist/4qEknlaZ97LKwYdi3fnOoa",
+    "artist_id": "4qEknlaZ97LKwYdi3fnOoa"
+  },
+  "six shots in dallas": {
+    "original_name": "Six Shots in Dallas",
+    "url": "https://open.spotify.com/artist/4mGy4EZOimbOTHmAxEjGdJ",
+    "artist_id": "4mGy4EZOimbOTHmAxEjGdJ"
+  },
+  "deathless void": {
+    "original_name": "Deathless Void",
+    "url": "https://open.spotify.com/artist/5183rMOS7baeubPO5lAMM7",
+    "artist_id": "5183rMOS7baeubPO5lAMM7"
+  },
+  "peace pipe": {
+    "original_name": "PEACE PIPE",
+    "url": "https://open.spotify.com/artist/53tPcppZl03HTrHI0UoUyL",
+    "artist_id": "53tPcppZl03HTrHI0UoUyL"
+  },
+  "our common collapse": {
+    "original_name": "Our Common Collapse",
+    "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb",
+    "artist_id": "4VTXcebcyltPt1ezdBBMQb"
+  },
+  "gutsfuck": {
+    "original_name": "GUTSFUCK",
+    "url": "https://open.spotify.com/artist/6XfY7JzgiWq6DuGNywmWXq",
+    "artist_id": "6XfY7JzgiWq6DuGNywmWXq"
+  },
+  "null dysthymic": {
+    "original_name": "Null Dysthymic",
+    "url": "https://open.spotify.com/artist/6CeG13ZRFvpuiD0frGUX8x",
+    "artist_id": "6CeG13ZRFvpuiD0frGUX8x"
+  },
+  "texas toast chainsaw massacre": {
+    "original_name": "Texas Toast Chainsaw Massacre",
+    "url": "https://open.spotify.com/artist/3iPhS5RVBVfuEAe95xw8nl",
+    "artist_id": "3iPhS5RVBVfuEAe95xw8nl"
+  },
+  "kakumay": {
+    "original_name": "KAKUMAY",
+    "url": "https://open.spotify.com/artist/1s1Fq0sBPidFTWX4tyiUyp",
+    "artist_id": "1s1Fq0sBPidFTWX4tyiUyp"
+  },
+  "bystander": {
+    "original_name": "BYSTANDER",
+    "url": "https://open.spotify.com/artist/4uYbgRkkg520ViIcz0KXdK",
+    "artist_id": "4uYbgRkkg520ViIcz0KXdK"
+  },
+  "intercessor": {
+    "original_name": "Intercessor",
+    "url": "https://open.spotify.com/artist/6YwYNzcxiky2niN36Uk9b3",
+    "artist_id": "6YwYNzcxiky2niN36Uk9b3"
+  },
+  "volatile ways": {
+    "original_name": "Volatile Ways",
+    "url": "https://open.spotify.com/artist/5tzKHMv3nxruSxWiLcrVIt",
+    "artist_id": "5tzKHMv3nxruSxWiLcrVIt"
+  },
+  "luca": {
+    "original_name": "LUCA",
+    "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med",
+    "artist_id": "3GKdEPHUSBp3iNT4SG2Med"
+  },
+  "right here right now": {
+    "original_name": "Right Here Right Now",
+    "url": "https://open.spotify.com/artist/1LF2clTXldKzeoofiJNf7J",
+    "artist_id": "1LF2clTXldKzeoofiJNf7J"
+  },
+  "nyktophobia": {
+    "original_name": "Nyktophobia",
+    "url": "https://open.spotify.com/artist/4ufTytsSuwqjE1iSf1GiA5",
+    "artist_id": "4ufTytsSuwqjE1iSf1GiA5"
+  },
+  "exnecros": {
+    "original_name": "Exnecros",
+    "url": "https://open.spotify.com/artist/3Vt9QI2xMaJc2VNNsb2exe",
+    "artist_id": "3Vt9QI2xMaJc2VNNsb2exe"
+  },
+  "crucifiction": {
+    "original_name": "CRUCIFICTION",
+    "url": "https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS",
+    "artist_id": "1yf1dC29po0p4GRKzrcxGS"
+  },
+  "human deception": {
+    "original_name": "Human Deception",
+    "url": "https://open.spotify.com/artist/41FMySLGDPPENq783hR00n",
+    "artist_id": "41FMySLGDPPENq783hR00n"
+  },
+  "beneath a steel sky": {
+    "original_name": "Beneath a Steel Sky",
+    "url": "https://open.spotify.com/artist/1QRRcsxUk55o21mlH2DGHM",
+    "artist_id": "1QRRcsxUk55o21mlH2DGHM"
+  },
+  "bonecarver": {
+    "original_name": "Bonecarver",
+    "url": "https://open.spotify.com/artist/4fgXEsajLL71kQlTMo5R29",
+    "artist_id": "4fgXEsajLL71kQlTMo5R29"
+  },
+  "scapegoat": {
+    "original_name": "Scapegoat",
+    "url": "https://open.spotify.com/artist/2dim4Z22r6hm81faAJ7xTK",
+    "artist_id": "2dim4Z22r6hm81faAJ7xTK"
+  },
+  "searching serenity": {
+    "original_name": "Searching Serenity",
+    "url": "https://open.spotify.com/artist/5pC6bA1fxOabZ8l2oUUujG",
+    "artist_id": "5pC6bA1fxOabZ8l2oUUujG"
+  },
+  "tornadic": {
+    "original_name": "Tornadic",
+    "url": "https://open.spotify.com/artist/2pP5J0zNkwzbWO2FkkdOnQ",
+    "artist_id": "2pP5J0zNkwzbWO2FkkdOnQ"
+  },
+  "nothing noble": {
+    "original_name": "Nothing Noble",
+    "url": "https://open.spotify.com/artist/34Ax6l7iTC4OFZMyo19iPc",
+    "artist_id": "34Ax6l7iTC4OFZMyo19iPc"
+  },
+  "aborted bong rip": {
+    "original_name": "Aborted Bong Rip",
+    "url": "https://open.spotify.com/artist/2sZbYIG6TD7D8V5WiEOFon",
+    "artist_id": "2sZbYIG6TD7D8V5WiEOFon"
+  },
+  "cryout": {
+    "original_name": "cryout",
+    "url": "https://open.spotify.com/artist/234qEkYJSyKYY2HJShfc6S",
+    "artist_id": "234qEkYJSyKYY2HJShfc6S"
+  },
+  "unholy orpheus": {
+    "original_name": "Unholy Orpheus",
+    "url": "https://open.spotify.com/artist/4c4bGsakt9QNeXKCbWMQ2u",
+    "artist_id": "4c4bGsakt9QNeXKCbWMQ2u"
+  },
+  "lamhet": {
+    "original_name": "Lamhet",
+    "url": "https://open.spotify.com/artist/01ZzSS0sBNJlwGbdCF3jjU",
+    "artist_id": "01ZzSS0sBNJlwGbdCF3jjU"
+  },
+  "no life": {
+    "original_name": "No Life",
+    "url": "https://open.spotify.com/artist/1AV6c2X9NdJqzPpSr7JziK",
+    "artist_id": "1AV6c2X9NdJqzPpSr7JziK"
+  },
+  "mortal reminder": {
+    "original_name": "MORTAL REMINDER",
+    "url": "https://open.spotify.com/artist/3GH2UpdVzcDfM4ENH75LfD",
+    "artist_id": "3GH2UpdVzcDfM4ENH75LfD"
+  },
+  "asfirefalls": {
+    "original_name": "Asfirefalls",
+    "url": "https://open.spotify.com/artist/2JpzcXChqTJM6pjnlTKvWt",
+    "artist_id": "2JpzcXChqTJM6pjnlTKvWt"
+  },
+  "beguiler": {
+    "original_name": "Beguiler",
+    "url": "https://open.spotify.com/artist/1npWOTnHWv2qnHszPMwHLj",
+    "artist_id": "1npWOTnHWv2qnHszPMwHLj"
+  },
+  "heists": {
+    "original_name": "Heists",
+    "url": "https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF",
+    "artist_id": "7i04oRstVv5xfCRMppUxuF"
+  },
+  "gallamesh": {
+    "original_name": "Gallamesh",
+    "url": "https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV",
+    "artist_id": "5nhUfUVXvd3Pjd9OkKBcEV"
+  },
+  "wither the fallacy": {
+    "original_name": "WITHER THE FALLACY",
+    "url": "https://open.spotify.com/artist/7D5a2e3Z3E4b8SGowSNPUd",
+    "artist_id": "7D5a2e3Z3E4b8SGowSNPUd"
+  },
+  "shingeki no awake": {
+    "original_name": "Shingeki no Awake",
+    "url": "https://open.spotify.com/artist/1TjiODRCGIyAJDSUeKJs2B",
+    "artist_id": "1TjiODRCGIyAJDSUeKJs2B"
+  },
+  "serrabulho": {
+    "original_name": "Serrabulho",
+    "url": "https://open.spotify.com/artist/2XwCbmJZsAqFKYbP71vs5J",
+    "artist_id": "2XwCbmJZsAqFKYbP71vs5J"
+  },
+  "leer": {
+    "original_name": "LEER",
+    "url": "https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI",
+    "artist_id": "3ltVtf7QHIwJBNQHqjb9UI"
+  },
+  "the forerunner": {
+    "original_name": "The Forerunner",
+    "url": "https://open.spotify.com/artist/3TWZYikZFbzHnAMh5kfmfq",
+    "artist_id": "3TWZYikZFbzHnAMh5kfmfq"
+  },
+  "these fucking hands": {
+    "original_name": "These Fucking Hands",
+    "url": "https://open.spotify.com/artist/5vv75r0p38Xma82ksIPvxm",
+    "artist_id": "5vv75r0p38Xma82ksIPvxm"
+  },
+  "vampire rose": {
+    "original_name": "VAMPIRE ROSE",
+    "url": "https://open.spotify.com/artist/40tr906zgdoCkJxpVxzZzp",
+    "artist_id": "40tr906zgdoCkJxpVxzZzp"
+  },
+  "the automatic singer": {
+    "original_name": "The Automatic Singer",
+    "url": "https://open.spotify.com/artist/2iy6PKhhvtcPRMlgstQKz2",
+    "artist_id": "2iy6PKhhvtcPRMlgstQKz2"
+  },
+  "hospital": {
+    "original_name": "Hospital",
+    "url": "https://open.spotify.com/artist/6Z0TOok4QlwXg3TeRhExyv",
+    "artist_id": "6Z0TOok4QlwXg3TeRhExyv"
+  },
+  "cemented in fear": {
+    "original_name": "Cemented in Fear",
+    "url": "https://open.spotify.com/artist/03Ovop3DuFllxT56ZUBD8H",
+    "artist_id": "03Ovop3DuFllxT56ZUBD8H"
+  },
+  "halo bite": {
+    "original_name": "Halo Bite",
+    "url": "https://open.spotify.com/artist/7I18r5VZ8g2bJswX2x2tKw",
+    "artist_id": "7I18r5VZ8g2bJswX2x2tKw"
+  },
+  "opponent": {
+    "original_name": "Opponent",
+    "url": "https://open.spotify.com/artist/4cSlo0UuPbN76e5N4mEeQb",
+    "artist_id": "4cSlo0UuPbN76e5N4mEeQb"
+  },
+  "tarcil": {
+    "original_name": "Tarcil",
+    "url": "https://open.spotify.com/artist/2agsmGlgy77KlsjGV6ydOm",
+    "artist_id": "2agsmGlgy77KlsjGV6ydOm"
+  },
+  "down by law": {
+    "original_name": "Down By Law",
+    "url": "https://open.spotify.com/artist/6hWRjQzM6AmSPqXd7eM2I2",
+    "artist_id": "6hWRjQzM6AmSPqXd7eM2I2"
+  },
+  "the art of deception": {
+    "original_name": "The Art of Deception",
+    "url": "https://open.spotify.com/artist/4FB8aZI5Ae92JNlPXxx25S",
+    "artist_id": "4FB8aZI5Ae92JNlPXxx25S"
+  },
+  "enemy 906": {
+    "original_name": "ENEMY 906",
+    "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0",
+    "artist_id": "7KxQQIZ8rQ6jOM6FcimDp0"
+  },
+  "outer worlds": {
+    "original_name": "Outer Worlds",
+    "url": "https://open.spotify.com/artist/2HW0dtR1p9lFbVDzMln4vm",
+    "artist_id": "2HW0dtR1p9lFbVDzMln4vm"
+  },
+  "deathpair": {
+    "original_name": "Deathpair",
+    "url": "https://open.spotify.com/artist/4UQJftLBUSFRZodTYKnPTw",
+    "artist_id": "4UQJftLBUSFRZodTYKnPTw"
+  },
+  "\u043f\u0438\u0433\u043c\u0435\u0438": {
+    "original_name": "\u041f\u0438\u0433\u043c\u0435\u0438",
+    "url": "https://open.spotify.com/artist/7mEQz5oBQVqguW283bSncT",
+    "artist_id": "7mEQz5oBQVqguW283bSncT"
+  },
+  "kokeshi": {
+    "original_name": "Kokeshi",
+    "url": "https://open.spotify.com/artist/3joyxa7TvzLs0c6H31DcNV",
+    "artist_id": "3joyxa7TvzLs0c6H31DcNV"
+  },
+  "the tale untold": {
+    "original_name": "The Tale Untold",
+    "url": "https://open.spotify.com/artist/13g9FHhXm2Tn3fR7KOallY",
+    "artist_id": "13g9FHhXm2Tn3fR7KOallY"
+  },
+  "spiritwalker": {
+    "original_name": "Spiritwalker",
+    "url": "https://open.spotify.com/artist/3RPU6POdV9j2cgiliSxYtg",
+    "artist_id": "3RPU6POdV9j2cgiliSxYtg"
+  },
+  "kru$ty": {
+    "original_name": "Kru$ty",
+    "url": "https://open.spotify.com/artist/3OxmEU9LO7OP13ptDsaLXW",
+    "artist_id": "3OxmEU9LO7OP13ptDsaLXW"
+  },
+  "gradience": {
+    "original_name": "Gradience",
+    "url": "https://open.spotify.com/artist/0WSe68Y9daHr3Hiek4a26H",
+    "artist_id": "0WSe68Y9daHr3Hiek4a26H"
+  },
+  "bloodletting prince": {
+    "original_name": "Bloodletting Prince",
+    "url": "https://open.spotify.com/artist/5CkxzGQzjy3OBZ8WoAKPVl",
+    "artist_id": "5CkxzGQzjy3OBZ8WoAKPVl"
+  },
+  "espiral": {
+    "original_name": "Espiral",
+    "url": "https://open.spotify.com/artist/0zxS6Kv0mi3rcjOnIG8AZl",
+    "artist_id": "0zxS6Kv0mi3rcjOnIG8AZl"
+  },
+  "naysayers": {
+    "original_name": "NAYSAYERS",
+    "url": "https://open.spotify.com/artist/7rv9zCUPqyMlWps0prXt4v",
+    "artist_id": "7rv9zCUPqyMlWps0prXt4v"
+  },
+  "archon": {
+    "original_name": "ARCHON",
+    "url": "https://open.spotify.com/artist/2DJrh0A3ElgB6eyYfZ5u5m",
+    "artist_id": "2DJrh0A3ElgB6eyYfZ5u5m"
+  },
+  "strychnos": {
+    "original_name": "Strychnos",
+    "url": "https://open.spotify.com/artist/6ahBLSGA36L7TEqaPLWyN8",
+    "artist_id": "6ahBLSGA36L7TEqaPLWyN8"
+  },
+  "bloody falls": {
+    "original_name": "Bloody Falls",
+    "url": "https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r",
+    "artist_id": "70aIXAYbZd48wRhXJfa39r"
+  },
+  "axefear": {
+    "original_name": "Axefear",
+    "url": "https://open.spotify.com/artist/08v1mIczurORofSMniq8Oi",
+    "artist_id": "08v1mIczurORofSMniq8Oi"
+  },
+  "bulma \u30d6\u30eb\u30de": {
+    "original_name": "BULMA \u30d6\u30eb\u30de",
+    "url": "https://open.spotify.com/artist/1015ikeVHCuZ4WmWKoQflw",
+    "artist_id": "1015ikeVHCuZ4WmWKoQflw"
+  },
+  "hekseblad": {
+    "original_name": "Hekseblad",
+    "url": "https://open.spotify.com/artist/5NyZmJZUDURORN1QiTbiZT",
+    "artist_id": "5NyZmJZUDURORN1QiTbiZT"
+  },
+  "lives lost": {
+    "original_name": "Lives Lost",
+    "url": "https://open.spotify.com/artist/685Y3y5wMxBS27ZrkAxS44",
+    "artist_id": "685Y3y5wMxBS27ZrkAxS44"
+  },
+  "street to the ocean": {
+    "original_name": "Street to the Ocean",
+    "url": "https://open.spotify.com/artist/2cA2B6WerdApxrqocBtvMQ",
+    "artist_id": "2cA2B6WerdApxrqocBtvMQ"
+  },
+  "death tag": {
+    "original_name": "DEATH TAG",
+    "url": "https://open.spotify.com/artist/7mONsMfVS0vQNvf3o0Y2oW",
+    "artist_id": "7mONsMfVS0vQNvf3o0Y2oW"
+  },
+  "spent case": {
+    "original_name": "SPENT CASE",
+    "url": "https://open.spotify.com/artist/2frLgJzeFBplaljPnaKayU",
+    "artist_id": "2frLgJzeFBplaljPnaKayU"
+  },
+  "kahani": {
+    "original_name": "Kahani",
+    "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb",
+    "artist_id": "1fu7plwfaglPCQU6y1RFfb"
+  },
+  "heteromorphic zoo": {
+    "original_name": "Heteromorphic Zoo",
+    "url": "https://open.spotify.com/artist/6yPAqoIMCfvAVMsDsWyNbp",
+    "artist_id": "6yPAqoIMCfvAVMsDsWyNbp"
+  },
+  "dead days": {
+    "original_name": "Dead Days",
+    "url": "https://open.spotify.com/artist/5HaGy8VvmF3PCUns6UhOQv",
+    "artist_id": "5HaGy8VvmF3PCUns6UhOQv"
+  },
+  "appalachian anarchy": {
+    "original_name": "Appalachian Anarchy",
+    "url": "https://open.spotify.com/artist/59JuXWTqK2cLCvSNz63fqN",
+    "artist_id": "59JuXWTqK2cLCvSNz63fqN"
+  },
+  "glaciers": {
+    "original_name": "Glaciers",
+    "url": "https://open.spotify.com/artist/0aABno6V0bgVXTzADSeUYv",
+    "artist_id": "0aABno6V0bgVXTzADSeUYv"
+  },
+  "remedy": {
+    "original_name": "Remedy",
+    "url": "https://open.spotify.com/artist/4PFZvjYWC5FpHtS7HlLmTJ",
+    "artist_id": "4PFZvjYWC5FpHtS7HlLmTJ"
+  },
+  "blitzkid": {
+    "original_name": "Blitzkid",
+    "url": "https://open.spotify.com/artist/1u8qqOF2w0kgbg1QLXEXSJ",
+    "artist_id": "1u8qqOF2w0kgbg1QLXEXSJ"
+  },
+  "frostbitt": {
+    "original_name": "Frostbitt",
+    "url": "https://open.spotify.com/artist/6XP64Chkji2mFpszEudUkq",
+    "artist_id": "6XP64Chkji2mFpszEudUkq"
+  },
+  "tsar": {
+    "original_name": "TSAR",
+    "url": "https://open.spotify.com/artist/1a2ZdtjsHAMD9bnwn7jxaC",
+    "artist_id": "1a2ZdtjsHAMD9bnwn7jxaC"
+  },
+  "omnivide": {
+    "original_name": "Omnivide",
+    "url": "https://open.spotify.com/artist/58iZiFQBnlpS1LQCLZIaw2",
+    "artist_id": "58iZiFQBnlpS1LQCLZIaw2"
+  },
+  "bassnectar": {
+    "original_name": "Bassnectar",
+    "url": "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i",
+    "artist_id": "1JPy5PsJtkhftfdr6saN2i"
+  },
+  "cyborg octopus": {
+    "original_name": "Cyborg Octopus",
+    "url": "https://open.spotify.com/artist/6iGSl0hxx2ude4AwBCAKZ6",
+    "artist_id": "6iGSl0hxx2ude4AwBCAKZ6"
+  },
+  "ancst": {
+    "original_name": "Ancst",
+    "url": "https://open.spotify.com/artist/5zGxYEPyynjUkIBgKRI1Wt",
+    "artist_id": "5zGxYEPyynjUkIBgKRI1Wt"
+  },
+  "gutting": {
+    "original_name": "Gutting",
+    "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj",
+    "artist_id": "2VhTBaV2Io9AJe661MUTEj"
+  },
+  "blazing eternity": {
+    "original_name": "Blazing Eternity",
+    "url": "https://open.spotify.com/artist/5wlJrskVtFPmIclT5vd9gF",
+    "artist_id": "5wlJrskVtFPmIclT5vd9gF"
+  },
+  "monomythic": {
+    "original_name": "Monomythic",
+    "url": "https://open.spotify.com/artist/3VsojyDk8sQn7RwvSqQpdL",
+    "artist_id": "3VsojyDk8sQn7RwvSqQpdL"
+  },
+  "fire & flesh": {
+    "original_name": "Fire & Flesh",
+    "url": "https://open.spotify.com/artist/4a3sLsruasVoUxboGQUNfP",
+    "artist_id": "4a3sLsruasVoUxboGQUNfP"
+  },
+  "gerogot": {
+    "original_name": "GEROGOT",
+    "url": "https://open.spotify.com/artist/0QJFs1621CUPUWbpnEs8FI",
+    "artist_id": "0QJFs1621CUPUWbpnEs8FI"
+  },
+  "moncreep": {
+    "original_name": "Moncreep",
+    "url": "https://open.spotify.com/artist/2cpKmhVHR9xyuTKKk0EBXc",
+    "artist_id": "2cpKmhVHR9xyuTKKk0EBXc"
+  },
+  "evergloam": {
+    "original_name": "Evergloam",
+    "url": "https://open.spotify.com/artist/0Sz3VMtEFrNn1vaat0FqK9",
+    "artist_id": "0Sz3VMtEFrNn1vaat0FqK9"
+  },
+  "r.a.i.d.": {
+    "original_name": "R.A.I.D.",
+    "url": "https://open.spotify.com/artist/3ffs5rQi9nZJg78jldaaxS",
+    "artist_id": "3ffs5rQi9nZJg78jldaaxS"
+  },
+  "spinal deformation": {
+    "original_name": "Spinal Deformation",
+    "url": "https://open.spotify.com/artist/3lwc83k8FYqbmMv6Fnp1p1",
+    "artist_id": "3lwc83k8FYqbmMv6Fnp1p1"
+  },
+  "nyc shootout": {
+    "original_name": "NYC SHOOTOUT",
+    "url": "https://open.spotify.com/artist/1i0Db49bKfKJoWv1hkMyIM",
+    "artist_id": "1i0Db49bKfKJoWv1hkMyIM"
+  },
+  "kaneto-juusei": {
+    "original_name": "kaneto-juusei",
+    "url": "https://open.spotify.com/artist/0TyQwaDsHka5C9u7vV9YG7",
+    "artist_id": "0TyQwaDsHka5C9u7vV9YG7"
+  },
+  "st.sinner": {
+    "original_name": "st.sinner",
+    "url": "https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G",
+    "artist_id": "3OeX9lekdj5s9FByuNxW8G"
+  },
+  "furlo": {
+    "original_name": "FURLO",
+    "url": "https://open.spotify.com/artist/2v0RRTUAxEdTnnHkgHGHhg",
+    "artist_id": "2v0RRTUAxEdTnnHkgHGHhg"
+  },
+  "sabancaya": {
+    "original_name": "Sabancaya",
+    "url": "https://open.spotify.com/artist/5q4AGfB45ZPXScWMyRBg9j",
+    "artist_id": "5q4AGfB45ZPXScWMyRBg9j"
+  },
+  "simulakra": {
+    "original_name": "Simulakra",
+    "url": "https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp",
+    "artist_id": "2jWxOfUagc8h6PbDZgFoMp"
+  },
+  "tombstoner": {
+    "original_name": "Tombstoner",
+    "url": "https://open.spotify.com/artist/7KUS3fnZ8nHy2tVE1uU00O",
+    "artist_id": "7KUS3fnZ8nHy2tVE1uU00O"
+  },
+  "sinequanon": {
+    "original_name": "Sinequanon",
+    "url": "https://open.spotify.com/artist/00xanJcYhxz7fqsaP3281l",
+    "artist_id": "00xanJcYhxz7fqsaP3281l"
+  },
+  "tyrant": {
+    "original_name": "Tyrant",
+    "url": "https://open.spotify.com/artist/1nOJ0TH4kkzX0yvF4hELCc",
+    "artist_id": "1nOJ0TH4kkzX0yvF4hELCc"
+  },
+  "bury the liar": {
+    "original_name": "Bury The Liar",
+    "url": "https://open.spotify.com/artist/22WyRNDxRgY1ILGj9mYu8O",
+    "artist_id": "22WyRNDxRgY1ILGj9mYu8O"
+  },
+  "divisive": {
+    "original_name": "Divisive",
+    "url": "https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC",
+    "artist_id": "7J0ZwYG57Ruw6ExLKls9PC"
+  },
+  "there's no face": {
+    "original_name": "There's No Face",
+    "url": "https://open.spotify.com/artist/24akzFM25DIhWs6x2hw2XG",
+    "artist_id": "24akzFM25DIhWs6x2hw2XG"
+  },
+  "toughguy": {
+    "original_name": "Toughguy",
+    "url": "https://open.spotify.com/artist/5ft5lEIsdzSDKx0tA2rPJH",
+    "artist_id": "5ft5lEIsdzSDKx0tA2rPJH"
+  },
+  "scarlet rot": {
+    "original_name": "Scarlet Rot",
+    "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6",
+    "artist_id": "6IAkJBTXy5Bf5J438qF1R6"
+  },
+  "\u9ea5\u742a\u9ea5\u742a makemake": {
+    "original_name": "\u9ea5\u742a\u9ea5\u742a MakeMake",
+    "url": "https://open.spotify.com/artist/5DlnA3fCaF6p4KZuhBHgLN",
+    "artist_id": "5DlnA3fCaF6p4KZuhBHgLN"
+  },
+  "human error": {
+    "original_name": "Human Error",
+    "url": "https://open.spotify.com/artist/3QNG3E1gZerAYXVt3MuIjp",
+    "artist_id": "3QNG3E1gZerAYXVt3MuIjp"
+  },
+  "killa bastard": {
+    "original_name": "Killa Bastard",
+    "url": "https://open.spotify.com/artist/5JSheexrHIwDG7nUp9htwx",
+    "artist_id": "5JSheexrHIwDG7nUp9htwx"
+  },
+  "suasion": {
+    "original_name": "Suasion",
+    "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK",
+    "artist_id": "3By3NlIbjZW9Uqlph8kcgK"
+  },
+  "illusions fade": {
+    "original_name": "Illusions Fade",
+    "url": "https://open.spotify.com/artist/7qkrSm3hEgTbfWhjs24AZP",
+    "artist_id": "7qkrSm3hEgTbfWhjs24AZP"
+  },
+  "eschalon": {
+    "original_name": "Eschalon",
+    "url": "https://open.spotify.com/artist/1jl0oWAKZ8BNB7Z8bnG7aZ",
+    "artist_id": "1jl0oWAKZ8BNB7Z8bnG7aZ"
+  },
+  "torture hammer": {
+    "original_name": "Torture Hammer",
+    "url": "https://open.spotify.com/artist/16ufE447vQz3nnumA0Svq2",
+    "artist_id": "16ufE447vQz3nnumA0Svq2"
+  },
+  "satanic north": {
+    "original_name": "Satanic North",
+    "url": "https://open.spotify.com/artist/0gxaZ1sxyfmjttYIM4jzIc",
+    "artist_id": "0gxaZ1sxyfmjttYIM4jzIc"
+  },
+  "martil": {
+    "original_name": "Martil",
+    "url": "https://open.spotify.com/artist/1WGaVnIFQDYZJhxDRoRD4G",
+    "artist_id": "1WGaVnIFQDYZJhxDRoRD4G"
+  },
+  "gost": {
+    "original_name": "Gost",
+    "url": "https://open.spotify.com/artist/46HcJG62ky3Tj7yJpB2Qqg",
+    "artist_id": "46HcJG62ky3Tj7yJpB2Qqg"
+  },
+  "lead horizon": {
+    "original_name": "Lead Horizon",
+    "url": "https://open.spotify.com/artist/5iF3nNoHv3gEm9mobCwdxC",
+    "artist_id": "5iF3nNoHv3gEm9mobCwdxC"
+  },
+  "sickrecy": {
+    "original_name": "Sickrecy",
+    "url": "https://open.spotify.com/artist/1MJwrsivor4GSAki25v5PW",
+    "artist_id": "1MJwrsivor4GSAki25v5PW"
+  },
+  "who they fear": {
+    "original_name": "Who They Fear",
+    "url": "https://open.spotify.com/artist/6v4tmKaFpasiRSLDxmwrle",
+    "artist_id": "6v4tmKaFpasiRSLDxmwrle"
+  },
+  "empiric": {
+    "original_name": "Empiric",
+    "url": "https://open.spotify.com/artist/6SXf93pH8SR1s8AZj7SXAO",
+    "artist_id": "6SXf93pH8SR1s8AZj7SXAO"
+  },
+  "pathologic": {
+    "original_name": "Pathologic",
+    "url": "https://open.spotify.com/artist/5y6E9eaJ3PLbixB3Ry3CQ1",
+    "artist_id": "5y6E9eaJ3PLbixB3Ry3CQ1"
+  },
+  "austrian death machine": {
+    "original_name": "Austrian Death Machine",
+    "url": "https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS",
+    "artist_id": "0oxUux1OSwZpIpSK0JbqSS"
+  },
+  "from dusk to dawn": {
+    "original_name": "From Dusk to Dawn",
+    "url": "https://open.spotify.com/artist/31vO7MtYSmvlo3QUH31Ss8",
+    "artist_id": "31vO7MtYSmvlo3QUH31Ss8"
+  },
+  "wasted flesh": {
+    "original_name": "Wasted Flesh",
+    "url": "https://open.spotify.com/artist/7ouUCMF2UEoorSLQVyGlDk",
+    "artist_id": "7ouUCMF2UEoorSLQVyGlDk"
+  },
+  "befouled tongue": {
+    "original_name": "Befouled Tongue",
+    "url": "https://open.spotify.com/artist/6CJkI9RF5T1XFdGYCDWNZi",
+    "artist_id": "6CJkI9RF5T1XFdGYCDWNZi"
+  },
+  "farsight": {
+    "original_name": "FARSIGHT",
+    "url": "https://open.spotify.com/artist/0u8cy1K9a7IChhXMlNU0Q1",
+    "artist_id": "0u8cy1K9a7IChhXMlNU0Q1"
+  },
+  "earthgazer": {
+    "original_name": "Earthgazer",
+    "url": "https://open.spotify.com/artist/2b1h1c5Oj2DAHtUU1loOdm",
+    "artist_id": "2b1h1c5Oj2DAHtUU1loOdm"
+  },
+  "backstabbed": {
+    "original_name": "Backstabbed",
+    "url": "https://open.spotify.com/artist/7LzFv2clmkrzzNkPHW44tk",
+    "artist_id": "7LzFv2clmkrzzNkPHW44tk"
+  },
+  "meadows": {
+    "original_name": "Meadows",
+    "url": "https://open.spotify.com/artist/0ervKnHzZBgwJgFkFdPcsF",
+    "artist_id": "0ervKnHzZBgwJgFkFdPcsF"
+  },
+  "infernal lamentations": {
+    "original_name": "Infernal Lamentations",
+    "url": "https://open.spotify.com/artist/3y0Wowjj6ilTUmHNIsDO4O",
+    "artist_id": "3y0Wowjj6ilTUmHNIsDO4O"
+  },
+  "skyrmisher": {
+    "original_name": "Skyrmisher",
+    "url": "https://open.spotify.com/artist/3nHKgURuRqRXCcDVKAfPBr",
+    "artist_id": "3nHKgURuRqRXCcDVKAfPBr"
+  },
+  "a knight under maria's altar": {
+    "original_name": "A Knight Under Maria's Altar",
+    "url": "https://open.spotify.com/artist/7DZweyo7u41dOXBV7eSbob",
+    "artist_id": "7DZweyo7u41dOXBV7eSbob"
+  },
+  "temor": {
+    "original_name": "TEMOR",
+    "url": "https://open.spotify.com/artist/2A7COD4RmugE3Jeff6sLqb",
+    "artist_id": "2A7COD4RmugE3Jeff6sLqb"
+  },
+  "thredge": {
+    "original_name": "Thredge",
+    "url": "https://open.spotify.com/artist/7iJWnpDB9Rw6MHvRrPpYN2",
+    "artist_id": "7iJWnpDB9Rw6MHvRrPpYN2"
+  },
+  "sinister feeling": {
+    "original_name": "Sinister Feeling",
+    "url": "https://open.spotify.com/artist/3KD8X5Li747WI4MyhGf43P",
+    "artist_id": "3KD8X5Li747WI4MyhGf43P"
+  },
+  "wani": {
+    "original_name": "Wani",
+    "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM",
+    "artist_id": "6YqdtpUutxodni6lUD4stM"
+  },
+  "jacob lizotte": {
+    "original_name": "Jacob Lizotte",
+    "url": "https://open.spotify.com/artist/1xd4o3nvXyiD90YBml2A5T",
+    "artist_id": "1xd4o3nvXyiD90YBml2A5T"
+  },
+  "meet the maker": {
+    "original_name": "Meet The Maker",
+    "url": "https://open.spotify.com/artist/17IdH2I9EWpCSUdQm91b2B",
+    "artist_id": "17IdH2I9EWpCSUdQm91b2B"
+  },
+  "grillijono k.o.": {
+    "original_name": "Grillijono K.O.",
+    "url": "https://open.spotify.com/artist/08QXOSGFgaJw93nk0a2Dk5",
+    "artist_id": "08QXOSGFgaJw93nk0a2Dk5"
+  },
+  "seek misery": {
+    "original_name": "Seek Misery",
+    "url": "https://open.spotify.com/artist/2p7QVsiDNqd3201OYqFFqj",
+    "artist_id": "2p7QVsiDNqd3201OYqFFqj"
+  },
+  "satanic empire": {
+    "original_name": "Satanic Empire",
+    "url": "https://open.spotify.com/artist/2GE9KvytBzbgYecgJR4DYv",
+    "artist_id": "2GE9KvytBzbgYecgJR4DYv"
+  },
+  "nocturnus ad": {
+    "original_name": "Nocturnus AD",
+    "url": "https://open.spotify.com/artist/3sjqdc4V86Y8fAzdmYZoH2",
+    "artist_id": "3sjqdc4V86Y8fAzdmYZoH2"
+  },
+  "skylimit": {
+    "original_name": "SKYLIMIT",
+    "url": "https://open.spotify.com/artist/0nVXrDRq7wclKSd7nOBiPt",
+    "artist_id": "0nVXrDRq7wclKSd7nOBiPt"
+  },
+  "olympus lenticular": {
+    "original_name": "Olympus Lenticular",
+    "url": "https://open.spotify.com/artist/0gwVjuAqUxB1TnugpYRqty",
+    "artist_id": "0gwVjuAqUxB1TnugpYRqty"
+  },
+  "friendly jvck": {
+    "original_name": "Friendly Jvck",
+    "url": "https://open.spotify.com/artist/6rfq3fvUgT8mCyP1NL4H0n",
+    "artist_id": "6rfq3fvUgT8mCyP1NL4H0n"
+  },
+  "sawnoff": {
+    "original_name": "SAWNOFF",
+    "url": "https://open.spotify.com/artist/11c8Y0dYUpIPH9HmGk84IL",
+    "artist_id": "11c8Y0dYUpIPH9HmGk84IL"
+  },
+  "dazzlingbad": {
+    "original_name": "DazzlingBAD",
+    "url": "https://open.spotify.com/artist/2dTgxXj3wbPFIUG9pa1NWc",
+    "artist_id": "2dTgxXj3wbPFIUG9pa1NWc"
+  },
+  "deathdotgov": {
+    "original_name": "deathdotgov",
+    "url": "https://open.spotify.com/artist/2vKtQTQJasv0t3z0GnqB4x",
+    "artist_id": "2vKtQTQJasv0t3z0GnqB4x"
+  },
+  "nora plan": {
+    "original_name": "Nora Plan",
+    "url": "https://open.spotify.com/artist/34QEjyOLywYergJJtUVSjT",
+    "artist_id": "34QEjyOLywYergJJtUVSjT"
+  },
+  "zombieshark!": {
+    "original_name": "ZOMBIESHARK!",
+    "url": "https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7",
+    "artist_id": "18K9AAgJqUVkquLVd6PJc7"
+  },
+  "chainsword": {
+    "original_name": "Chainsword",
+    "url": "https://open.spotify.com/artist/4q59GvmBhdbncyowz8gFkC",
+    "artist_id": "4q59GvmBhdbncyowz8gFkC"
+  },
+  "newcomer": {
+    "original_name": "NEWCOMER",
+    "url": "https://open.spotify.com/artist/7unG0KU8eWnzfQAJA8TAcH",
+    "artist_id": "7unG0KU8eWnzfQAJA8TAcH"
+  },
+  "truck chan": {
+    "original_name": "Truck Chan",
+    "url": "https://open.spotify.com/artist/1Iul80fggsDCLacY0h9scr",
+    "artist_id": "1Iul80fggsDCLacY0h9scr"
+  },
+  "daedra": {
+    "original_name": "Daedra",
+    "url": "https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon",
+    "artist_id": "4Bl3FXav6VIDmSpaHLwpon"
+  },
+  "the stygian complex": {
+    "original_name": "The Stygian Complex",
+    "url": "https://open.spotify.com/artist/64Gj1izAyQcJBHlS6Rdcu5",
+    "artist_id": "64Gj1izAyQcJBHlS6Rdcu5"
+  },
+  "zombie": {
+    "original_name": "ZOMBIE",
+    "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5",
+    "artist_id": "2L7RaHwfVU6ge64IJF8GO5"
+  },
+  "auditory anguish": {
+    "original_name": "AUDITORY ANGUISH",
+    "url": "https://open.spotify.com/artist/10dTG5wFGlKKH0aryYHrCR",
+    "artist_id": "10dTG5wFGlKKH0aryYHrCR"
+  },
+  "johnny mafia": {
+    "original_name": "Johnny Mafia",
+    "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY",
+    "artist_id": "7iM6UV8wXD4l2bS2QxdOPY"
+  },
+  "agony": {
+    "original_name": "Agony",
+    "url": "https://open.spotify.com/artist/7c7dUW2LC1L6ORMWbEDGNI",
+    "artist_id": "7c7dUW2LC1L6ORMWbEDGNI"
+  },
+  "griefgod": {
+    "original_name": "Griefgod",
+    "url": "https://open.spotify.com/artist/1ZvTMCLeW2k9tCTjWqN1mS",
+    "artist_id": "1ZvTMCLeW2k9tCTjWqN1mS"
+  },
+  "braces": {
+    "original_name": "BRACES",
+    "url": "https://open.spotify.com/artist/1oZBET0PBRusndmvbnlz9W",
+    "artist_id": "1oZBET0PBRusndmvbnlz9W"
+  },
+  "cogitations": {
+    "original_name": "Cogitations",
+    "url": "https://open.spotify.com/artist/7jYdaSBbY9upek4zyCxdh7",
+    "artist_id": "7jYdaSBbY9upek4zyCxdh7"
+  },
+  "mattias alkberg": {
+    "original_name": "Mattias Alkberg",
+    "url": "https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE",
+    "artist_id": "5p8AjcGi5g19fWNvC2zhqE"
+  },
+  "curveless": {
+    "original_name": "Curveless",
+    "url": "https://open.spotify.com/artist/0UzxjNIkMaAFiuXOCUdlca",
+    "artist_id": "0UzxjNIkMaAFiuXOCUdlca"
+  },
+  "apogean": {
+    "original_name": "Apogean",
+    "url": "https://open.spotify.com/artist/4Wl6PA1ABnzNQMnZd5cOOd",
+    "artist_id": "4Wl6PA1ABnzNQMnZd5cOOd"
+  },
+  "vespid": {
+    "original_name": "Vespid",
+    "url": "https://open.spotify.com/artist/3Km8iRgRYhnQA6WRuL4WgV",
+    "artist_id": "3Km8iRgRYhnQA6WRuL4WgV"
+  },
+  "kassogtha": {
+    "original_name": "Kassogtha",
+    "url": "https://open.spotify.com/artist/3QicHomrJUbJrm9h0fdZOw",
+    "artist_id": "3QicHomrJUbJrm9h0fdZOw"
+  },
+  "victimofdeception": {
+    "original_name": "VICTIMOFDECEPTION",
+    "url": "https://open.spotify.com/artist/57VR0hNQshHQEaqrUUYWe4",
+    "artist_id": "57VR0hNQshHQEaqrUUYWe4"
+  },
+  "drip eu": {
+    "original_name": "DRIP EU",
+    "url": "https://open.spotify.com/artist/7GKw4lPYfSo0ya4s2YGUsS",
+    "artist_id": "7GKw4lPYfSo0ya4s2YGUsS"
+  },
+  "hurt division": {
+    "original_name": "Hurt Division",
+    "url": "https://open.spotify.com/artist/1m0nLx5JP1C7MnugLq0XVc",
+    "artist_id": "1m0nLx5JP1C7MnugLq0XVc"
+  },
+  "bloody cumshot": {
+    "original_name": "Bloody Cumshot",
+    "url": "https://open.spotify.com/artist/4QjsTcLxAGrrAsjHGN4SuD",
+    "artist_id": "4QjsTcLxAGrrAsjHGN4SuD"
+  },
+  "destard": {
+    "original_name": "DESTARD",
+    "url": "https://open.spotify.com/artist/0smphHwUPTLAcGdDDxYwQo",
+    "artist_id": "0smphHwUPTLAcGdDDxYwQo"
+  },
+  "sg\u00e0ile": {
+    "original_name": "Sg\u00e0ile",
+    "url": "https://open.spotify.com/artist/0kTaZFlAaJlbEkeNTjOYe1",
+    "artist_id": "0kTaZFlAaJlbEkeNTjOYe1"
+  },
+  "as time went by": {
+    "original_name": "As Time Went By",
+    "url": "https://open.spotify.com/artist/38kYgEP2F1GpU8EbslPsMS",
+    "artist_id": "38kYgEP2F1GpU8EbslPsMS"
+  },
+  "gratitudetx": {
+    "original_name": "Gratitudetx",
+    "url": "https://open.spotify.com/artist/6VsNiPUo6UtPkJO89QjEsu",
+    "artist_id": "6VsNiPUo6UtPkJO89QjEsu"
+  },
+  "violent nature": {
+    "original_name": "VIOLENT NATURE",
+    "url": "https://open.spotify.com/artist/6Ks4Mpy6HzIPNDdNGHm6T3",
+    "artist_id": "6Ks4Mpy6HzIPNDdNGHm6T3"
+  },
+  "dream beard": {
+    "original_name": "Dream Beard",
+    "url": "https://open.spotify.com/artist/60cbeifeYO9WgSuAkLy0Sc",
+    "artist_id": "60cbeifeYO9WgSuAkLy0Sc"
+  },
+  "ryujin": {
+    "original_name": "RYUJIN",
+    "url": "https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk",
+    "artist_id": "3SUKO4vAKUtulR6t99R1Zk"
+  },
+  "windchimes": {
+    "original_name": "Windchimes",
+    "url": "https://open.spotify.com/artist/30skqM1buXWfxi1m6DxA95",
+    "artist_id": "30skqM1buXWfxi1m6DxA95"
+  },
+  "intercollision": {
+    "original_name": "Intercollision",
+    "url": "https://open.spotify.com/artist/2ZQQObsBpPwgKjK07Mjmba",
+    "artist_id": "2ZQQObsBpPwgKjK07Mjmba"
+  },
+  "suffer uk": {
+    "original_name": "Suffer UK",
+    "url": "https://open.spotify.com/artist/5jzHeqBMZElOiky0aWXsFG",
+    "artist_id": "5jzHeqBMZElOiky0aWXsFG"
+  },
+  "satanice": {
+    "original_name": "SATANICE",
+    "url": "https://open.spotify.com/artist/2LuqpIBXULsF5b4HkCr7mI",
+    "artist_id": "2LuqpIBXULsF5b4HkCr7mI"
+  },
+  "snowblood": {
+    "original_name": "Snowblood",
+    "url": "https://open.spotify.com/artist/6nLpD6tWBhXIbNxVKJC1fH",
+    "artist_id": "6nLpD6tWBhXIbNxVKJC1fH"
+  },
+  "mind incision": {
+    "original_name": "Mind Incision",
+    "url": "https://open.spotify.com/artist/7tlxDKSMmQ6Dpmixs9oLYn",
+    "artist_id": "7tlxDKSMmQ6Dpmixs9oLYn"
+  },
+  "before breathing": {
+    "original_name": "Before Breathing",
+    "url": "https://open.spotify.com/artist/2lKpiEXSugwW8iQFyL4U7q",
+    "artist_id": "2lKpiEXSugwW8iQFyL4U7q"
+  },
+  "dvst": {
+    "original_name": "DVST",
+    "url": "https://open.spotify.com/artist/1GpdZlbeeei84hTfbPHCTv",
+    "artist_id": "1GpdZlbeeei84hTfbPHCTv"
+  },
+  "uncircle": {
+    "original_name": "Uncircle",
+    "url": "https://open.spotify.com/artist/2CCsQ7SQELcfwENdswNLyC",
+    "artist_id": "2CCsQ7SQELcfwENdswNLyC"
+  },
+  "hatewaker": {
+    "original_name": "HateWaker",
+    "url": "https://open.spotify.com/artist/0x8jOlIanAJM3e3wAOjEFR",
+    "artist_id": "0x8jOlIanAJM3e3wAOjEFR"
+  },
+  "ninth in pluto": {
+    "original_name": "NINTH IN PLUTO",
+    "url": "https://open.spotify.com/artist/2WCmL2a7rQ7eDve5G46VnW",
+    "artist_id": "2WCmL2a7rQ7eDve5G46VnW"
+  },
+  "obsidian mind": {
+    "original_name": "Obsidian Mind",
+    "url": "https://open.spotify.com/artist/3adRnmCpbqvYJrJODNpdkn",
+    "artist_id": "3adRnmCpbqvYJrJODNpdkn"
+  },
+  "\u30db\u30f3\u30e2\u30ce": {
+    "original_name": "\u30db\u30f3\u30e2\u30ce",
+    "url": "https://open.spotify.com/artist/5AWPNhUs6ieOMhDx5TjhCL",
+    "artist_id": "5AWPNhUs6ieOMhDx5TjhCL"
+  },
+  "chains of agony": {
+    "original_name": "Chains Of Agony",
+    "url": "https://open.spotify.com/artist/2BBI5PhPbdAWyJY3MTec0T",
+    "artist_id": "2BBI5PhPbdAWyJY3MTec0T"
+  },
+  "fatal move": {
+    "original_name": "Fatal Move",
+    "url": "https://open.spotify.com/artist/7ei5nfpQ604O9yE0jPXvSd",
+    "artist_id": "7ei5nfpQ604O9yE0jPXvSd"
+  },
+  "karasu": {
+    "original_name": "KaRaSu",
+    "url": "https://open.spotify.com/artist/3nL4AO4tQBONLYGshwZrGM",
+    "artist_id": "3nL4AO4tQBONLYGshwZrGM"
+  },
+  "nyrst": {
+    "original_name": "Nyrst",
+    "url": "https://open.spotify.com/artist/5l3wrSsJE2V0VINGu89lWN",
+    "artist_id": "5l3wrSsJE2V0VINGu89lWN"
+  },
+  "the wind covenant": {
+    "original_name": "The Wind Covenant",
+    "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs",
+    "artist_id": "2CL5ITHrtJ1JVCCthWw1fs"
+  },
+  "purge of sanity": {
+    "original_name": "Purge of Sanity",
+    "url": "https://open.spotify.com/artist/2609OcH9V5gOoIAtwUHjxp",
+    "artist_id": "2609OcH9V5gOoIAtwUHjxp"
+  },
+  "decaying purity": {
+    "original_name": "Decaying Purity",
+    "url": "https://open.spotify.com/artist/67Y2W5o4tTiCDPUATGiCNO",
+    "artist_id": "67Y2W5o4tTiCDPUATGiCNO"
+  },
+  "slamy vocals": {
+    "original_name": "Slamy Vocals",
+    "url": "https://open.spotify.com/artist/5kIHyK4EUUu5j6cKXFw5I0",
+    "artist_id": "5kIHyK4EUUu5j6cKXFw5I0"
+  },
+  "seguimos perdiendo": {
+    "original_name": "Seguimos Perdiendo",
+    "url": "https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr",
+    "artist_id": "5Hp12BdkneIJpn6hvxaoHr"
+  },
+  "\u0442\u0440\u0443\u043f \u043a\u043e\u043b\u0434\u0443\u043d\u0430": {
+    "original_name": "\u0422\u0440\u0443\u043f \u041a\u043e\u043b\u0434\u0443\u043d\u0430",
+    "url": "https://open.spotify.com/artist/1x2PCVMKHGrj1qfykYTpxL",
+    "artist_id": "1x2PCVMKHGrj1qfykYTpxL"
+  },
+  "kill rob bailey": {
+    "original_name": "Kill ROB Bailey",
+    "url": "https://open.spotify.com/artist/0pgNsgV8OEoTmbHnnTNkYL",
+    "artist_id": "0pgNsgV8OEoTmbHnnTNkYL"
+  },
+  "hitbox": {
+    "original_name": "hitbox",
+    "url": "https://open.spotify.com/artist/16RQ1ts3SISTZXiq06vNkt",
+    "artist_id": "16RQ1ts3SISTZXiq06vNkt"
+  },
+  "daedric chamber": {
+    "original_name": "Daedric Chamber",
+    "url": "https://open.spotify.com/artist/0uNTmzOkV3PmjdABkTpTe6",
+    "artist_id": "0uNTmzOkV3PmjdABkTpTe6"
+  },
+  "indistinct": {
+    "original_name": "Indistinct",
+    "url": "https://open.spotify.com/artist/55jwncjanz31tTNxLqbTd8",
+    "artist_id": "55jwncjanz31tTNxLqbTd8"
+  },
+  "sunk loto": {
+    "original_name": "Sunk Loto",
+    "url": "https://open.spotify.com/artist/7MGHuj52nFdF1mAYRl0zkG",
+    "artist_id": "7MGHuj52nFdF1mAYRl0zkG"
+  },
+  "exit": {
+    "original_name": "Exit",
+    "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j",
+    "artist_id": "3h9p6ezLoqYJ0viEfqGE4j"
+  },
+  "chaldea": {
+    "original_name": "Chaldea",
+    "url": "https://open.spotify.com/artist/4fSgBXyl6FGwXf3ZqeHS3F",
+    "artist_id": "4fSgBXyl6FGwXf3ZqeHS3F"
+  },
+  "polish": {
+    "original_name": "Polish",
+    "url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU",
+    "artist_id": "2dI9IuajQnLR5dLxHjTTqU"
+  },
+  "exorcised gods": {
+    "original_name": "Exorcised Gods",
+    "url": "https://open.spotify.com/artist/0qqwP2wJufGEv681mqvF70",
+    "artist_id": "0qqwP2wJufGEv681mqvF70"
+  },
+  "dxwnsides": {
+    "original_name": "Dxwnsides",
+    "url": "https://open.spotify.com/artist/3fGgS0yxHUJi2OiwpTtvbp",
+    "artist_id": "3fGgS0yxHUJi2OiwpTtvbp"
+  },
+  "surgeon": {
+    "original_name": "SURGEON",
+    "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM",
+    "artist_id": "1PSylklb2w06BAAHEtepqM"
+  },
+  "to obey a tyrant": {
+    "original_name": "To Obey a Tyrant",
+    "url": "https://open.spotify.com/artist/1s1OmCqLXfLqrRhc6evxtl",
+    "artist_id": "1s1OmCqLXfLqrRhc6evxtl"
+  },
+  "bloat": {
+    "original_name": "Bloat",
+    "url": "https://open.spotify.com/artist/6NezMhzlkSaAW7AFpbRczn",
+    "artist_id": "6NezMhzlkSaAW7AFpbRczn"
+  },
+  "jack the joker": {
+    "original_name": "Jack The Joker",
+    "url": "https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq",
+    "artist_id": "1lIjN6laJcdd6txiGXvZaq"
+  },
+  "slowchamber": {
+    "original_name": "slowchamber",
+    "url": "https://open.spotify.com/artist/4cu9p8IwUabulv3YOxPIxC",
+    "artist_id": "4cu9p8IwUabulv3YOxPIxC"
+  },
+  "xii thorns": {
+    "original_name": "XII Thorns",
+    "url": "https://open.spotify.com/artist/0nAbUZTbd0UFkL4GGacvG8",
+    "artist_id": "0nAbUZTbd0UFkL4GGacvG8"
+  },
+  "opium du peuple": {
+    "original_name": "Opium du Peuple",
+    "url": "https://open.spotify.com/artist/1h4LqTF3rRmvSf5YQaL7CV",
+    "artist_id": "1h4LqTF3rRmvSf5YQaL7CV"
+  },
+  "inverity": {
+    "original_name": "INVERITY",
+    "url": "https://open.spotify.com/artist/4ff9Ai2AG081rH1hLkECQi",
+    "artist_id": "4ff9Ai2AG081rH1hLkECQi"
+  },
+  "hinayana": {
+    "original_name": "Hinayana",
+    "url": "https://open.spotify.com/artist/7cZd90UiEtY6V76dtQHXqF",
+    "artist_id": "7cZd90UiEtY6V76dtQHXqF"
+  },
+  "necrophilic beatdown": {
+    "original_name": "Necrophilic Beatdown",
+    "url": "https://open.spotify.com/artist/4sGR6gZQVT1RZVjBb9Qce9",
+    "artist_id": "4sGR6gZQVT1RZVjBb9Qce9"
+  },
+  "not norman": {
+    "original_name": "Not Norman",
+    "url": "https://open.spotify.com/artist/6AnntqIt9aLBRObq0d512w",
+    "artist_id": "6AnntqIt9aLBRObq0d512w"
+  },
+  "maracurse": {
+    "original_name": "Maracurse",
+    "url": "https://open.spotify.com/artist/07rN5azbJTlpsrlJQss2v2",
+    "artist_id": "07rN5azbJTlpsrlJQss2v2"
+  },
+  "abyss walker": {
+    "original_name": "Abyss Walker",
+    "url": "https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ",
+    "artist_id": "0gJ0dOw0r6daBMmJr6ROvQ"
+  },
+  "makhlvk": {
+    "original_name": "Makhlvk",
+    "url": "https://open.spotify.com/artist/3g04K4btUiISMXpV4c2xqP",
+    "artist_id": "3g04K4btUiISMXpV4c2xqP"
+  },
+  "swampgrave": {
+    "original_name": "SWAMPGRAVE",
+    "url": "https://open.spotify.com/artist/38IenmX2kQpL7NS74TJPun",
+    "artist_id": "38IenmX2kQpL7NS74TJPun"
+  },
+  "lies!": {
+    "original_name": "LIES!",
+    "url": "https://open.spotify.com/artist/5JyxnBnIFniU2oLWjUNjz9",
+    "artist_id": "5JyxnBnIFniU2oLWjUNjz9"
+  },
+  "gulu gulu": {
+    "original_name": "gulu gulu",
+    "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt",
+    "artist_id": "7IS31MnxPnYaDKlFRZ3pdt"
+  },
+  "in your grave": {
+    "original_name": "In Your Grave",
+    "url": "https://open.spotify.com/artist/2MlBpNoRy5QXHOpBioVqVP",
+    "artist_id": "2MlBpNoRy5QXHOpBioVqVP"
+  },
+  "provoke the truth": {
+    "original_name": "Provoke the Truth",
+    "url": "https://open.spotify.com/artist/0xeac9VopTCnTVzSx1ZByP",
+    "artist_id": "0xeac9VopTCnTVzSx1ZByP"
+  },
+  "discoveries nc": {
+    "original_name": "Discoveries NC",
+    "url": "https://open.spotify.com/artist/2dkZWZy1u8NJ4Hl4vXE33J",
+    "artist_id": "2dkZWZy1u8NJ4Hl4vXE33J"
+  },
+  "parris bridge": {
+    "original_name": "Parris Bridge",
+    "url": "https://open.spotify.com/artist/0e2mamzzCCvHBBOmznjgQu",
+    "artist_id": "0e2mamzzCCvHBBOmznjgQu"
+  },
+  "still stayer": {
+    "original_name": "Still Stayer",
+    "url": "https://open.spotify.com/artist/0M6zJSeM1XgyIu64Hfrmlm",
+    "artist_id": "0M6zJSeM1XgyIu64Hfrmlm"
+  },
+  "tide has turned": {
+    "original_name": "Tide Has Turned",
+    "url": "https://open.spotify.com/artist/5u6k8PbYrk7ZXPfK2NBoVG",
+    "artist_id": "5u6k8PbYrk7ZXPfK2NBoVG"
+  },
+  "astray valley": {
+    "original_name": "Astray Valley",
+    "url": "https://open.spotify.com/artist/3KaFOzEYQTi5CNc1Y577gx",
+    "artist_id": "3KaFOzEYQTi5CNc1Y577gx"
+  },
+  "nxxses": {
+    "original_name": "Nxxses",
+    "url": "https://open.spotify.com/artist/2PAgaaZUHcCqzYsf6SY3uY",
+    "artist_id": "2PAgaaZUHcCqzYsf6SY3uY"
+  },
+  "stories through storms": {
+    "original_name": "Stories Through Storms",
+    "url": "https://open.spotify.com/artist/0lr5JmP9qsCGEUADM9uSWC",
+    "artist_id": "0lr5JmP9qsCGEUADM9uSWC"
+  },
+  "chem": {
+    "original_name": "Chem",
+    "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo"
+  },
+  "middle grounds": {
+    "original_name": "Middle Grounds",
+    "url": "https://open.spotify.com/artist/1aYc9JjLoz7BRqioUuJKxn",
+    "artist_id": "1aYc9JjLoz7BRqioUuJKxn"
+  },
+  "eiga": {
+    "original_name": "Eiga",
+    "url": "https://open.spotify.com/artist/2WAmN5MiGL8XYhlXODKB0d",
+    "artist_id": "2WAmN5MiGL8XYhlXODKB0d"
+  },
+  "ikin\u00e4": {
+    "original_name": "IKIN\u00c4",
+    "url": "https://open.spotify.com/artist/4xg4NsqU77gUm4ZmMRAxxe",
+    "artist_id": "4xg4NsqU77gUm4ZmMRAxxe"
+  },
+  "tyrants breaker": {
+    "original_name": "Tyrants Breaker",
+    "url": "https://open.spotify.com/artist/3TvNNN9VmTliAu0hk1sdMl",
+    "artist_id": "3TvNNN9VmTliAu0hk1sdMl"
+  },
+  "the hero and a monster": {
+    "original_name": "The Hero and a Monster",
+    "url": "https://open.spotify.com/artist/7eQGtfOGKRndQcXCO1Xos6",
+    "artist_id": "7eQGtfOGKRndQcXCO1Xos6"
+  },
+  "pollen": {
+    "original_name": "Pollen",
+    "url": "https://open.spotify.com/artist/3JNzTfAri3Mmn3tAOlk55V",
+    "artist_id": "3JNzTfAri3Mmn3tAOlk55V"
+  },
+  "heat": {
+    "original_name": "HEAT",
+    "url": "https://open.spotify.com/artist/7AluttQup6aYzucnaCzl4g",
+    "artist_id": "7AluttQup6aYzucnaCzl4g"
+  },
+  "crimson moonlight": {
+    "original_name": "Crimson Moonlight",
+    "url": "https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk",
+    "artist_id": "3BK5u7xOPJU8ERq8w27hnk"
+  },
+  "secondhand saints": {
+    "original_name": "Secondhand Saints",
+    "url": "https://open.spotify.com/artist/3S4jMurhHps1xCUhejnAd2",
+    "artist_id": "3S4jMurhHps1xCUhejnAd2"
+  },
+  "aerial": {
+    "original_name": "Aerial",
+    "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt",
+    "artist_id": "52GC47uinFvXuWXBqx83nt"
+  },
+  "mildura": {
+    "original_name": "Mildura",
+    "url": "https://open.spotify.com/artist/0zgXY7xaiH0GRA5pOqvJ6d",
+    "artist_id": "0zgXY7xaiH0GRA5pOqvJ6d"
+  },
+  "\u30ae\u30e3\u30ed": {
+    "original_name": "\u30ae\u30e3\u30ed",
+    "url": "https://open.spotify.com/artist/107t9HCBt6qBgN6i5gDniR",
+    "artist_id": "107t9HCBt6qBgN6i5gDniR"
+  },
+  "american arson": {
+    "original_name": "American Arson",
+    "url": "https://open.spotify.com/artist/7cl9j0U54gBxbcGO7zXXs2",
+    "artist_id": "7cl9j0U54gBxbcGO7zXXs2"
+  },
+  "the maguas": {
+    "original_name": "The Maguas",
+    "url": "https://open.spotify.com/artist/38whXecyxwJr7uUjpZ104x",
+    "artist_id": "38whXecyxwJr7uUjpZ104x"
+  },
+  "nick broomhall": {
+    "original_name": "Nick Broomhall",
+    "url": "https://open.spotify.com/artist/1RU0ONSshGqglT3CvPHrBT",
+    "artist_id": "1RU0ONSshGqglT3CvPHrBT"
+  },
+  "cerement": {
+    "original_name": "Cerement",
+    "url": "https://open.spotify.com/artist/0uxkw5GtlfU8BgOuP7cjfl",
+    "artist_id": "0uxkw5GtlfU8BgOuP7cjfl"
+  },
+  "old wharf": {
+    "original_name": "Old Wharf",
+    "url": "https://open.spotify.com/artist/0VKGJBAmsWIfgP7XeN1SEi",
+    "artist_id": "0VKGJBAmsWIfgP7XeN1SEi"
+  },
+  "iscariot": {
+    "original_name": "Iscariot",
+    "url": "https://open.spotify.com/artist/2MBQjycT5pcjbWCetBJOur",
+    "artist_id": "2MBQjycT5pcjbWCetBJOur"
+  },
+  "emperors & angels": {
+    "original_name": "EMPERORS & ANGELS",
+    "url": "https://open.spotify.com/artist/5iDxnb1WVvezg59OVGAJbQ",
+    "artist_id": "5iDxnb1WVvezg59OVGAJbQ"
+  },
+  "berzerker legion": {
+    "original_name": "Berzerker Legion",
+    "url": "https://open.spotify.com/artist/72MD4qOT5kUc5FMZ8eqxkX",
+    "artist_id": "72MD4qOT5kUc5FMZ8eqxkX"
+  },
+  "a trilha": {
+    "original_name": "A Trilha",
+    "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk",
+    "artist_id": "3wHYVqzrG53DzO5mgwp0tk"
+  },
+  "nitheful": {
+    "original_name": "Nitheful",
+    "url": "https://open.spotify.com/artist/0Sh13MqPGa0Pel97w8adxS",
+    "artist_id": "0Sh13MqPGa0Pel97w8adxS"
+  },
+  "sentenced 2 die": {
+    "original_name": "Sentenced 2 Die",
+    "url": "https://open.spotify.com/artist/1ZBik6Juf9pqiDlsh3badc",
+    "artist_id": "1ZBik6Juf9pqiDlsh3badc"
+  },
+  "gravesend": {
+    "original_name": "Gravesend",
+    "url": "https://open.spotify.com/artist/554zLl2Oh47VRg0MF8mkHj",
+    "artist_id": "554zLl2Oh47VRg0MF8mkHj"
+  },
+  "dissonation": {
+    "original_name": "Dissonation",
+    "url": "https://open.spotify.com/artist/4vmlzEE93UfxDk7WHbLm3X",
+    "artist_id": "4vmlzEE93UfxDk7WHbLm3X"
+  },
+  "carl wheezer": {
+    "original_name": "CARL WHEEZER",
+    "url": "https://open.spotify.com/artist/5xMqzmvCCb86xN3ddVTDn3",
+    "artist_id": "5xMqzmvCCb86xN3ddVTDn3"
+  },
+  "testimony of apocalypse": {
+    "original_name": "Testimony of Apocalypse",
+    "url": "https://open.spotify.com/artist/3MuHWsXweopEjemVhc16d5",
+    "artist_id": "3MuHWsXweopEjemVhc16d5"
+  },
+  "halberd": {
+    "original_name": "Halberd",
+    "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB",
+    "artist_id": "7ow7nXWCZuMoU09aRki7GB"
+  },
+  "omnivortex": {
+    "original_name": "Omnivortex",
+    "url": "https://open.spotify.com/artist/7qUbOOQOeYnq0cUUIU5SEO",
+    "artist_id": "7qUbOOQOeYnq0cUUIU5SEO"
+  },
+  "callout": {
+    "original_name": "Callout",
+    "url": "https://open.spotify.com/artist/5PFkAH2D4bsXfK8C5979bV",
+    "artist_id": "5PFkAH2D4bsXfK8C5979bV"
+  },
+  "gas fl": {
+    "original_name": "Gas FL",
+    "url": "https://open.spotify.com/artist/1YdWxmmj11cbJbcHhUrvba",
+    "artist_id": "1YdWxmmj11cbJbcHhUrvba"
+  },
+  "dishonor": {
+    "original_name": "Dishonor",
+    "url": "https://open.spotify.com/artist/3p4nWpSdFZrDdA6lK6nQSY",
+    "artist_id": "3p4nWpSdFZrDdA6lK6nQSY"
+  },
+  "thefaceyoumakewhenyoureallylose": {
+    "original_name": "TheFaceYouMakeWhenYouReallyLose",
+    "url": "https://open.spotify.com/artist/2oSGR34gOLtTvYnx2qGtmJ",
+    "artist_id": "2oSGR34gOLtTvYnx2qGtmJ"
+  },
+  "tyler rossow": {
+    "original_name": "Tyler Rossow",
+    "url": "https://open.spotify.com/artist/6UOj6bnlUMdfLXvJgRRtPH",
+    "artist_id": "6UOj6bnlUMdfLXvJgRRtPH"
+  },
+  "helfr\u00f3": {
+    "original_name": "Helfr\u00f3",
+    "url": "https://open.spotify.com/artist/3LNnSSzoPPdyJT437coBFn",
+    "artist_id": "3LNnSSzoPPdyJT437coBFn"
+  },
+  "avenade": {
+    "original_name": "Avenade",
+    "url": "https://open.spotify.com/artist/5wbQ674GzsknR3lZucAVhx",
+    "artist_id": "5wbQ674GzsknR3lZucAVhx"
+  },
+  "graven image": {
+    "original_name": "Graven Image",
+    "url": "https://open.spotify.com/artist/4ZKIuhB1PWjnKmVAUU8V7K",
+    "artist_id": "4ZKIuhB1PWjnKmVAUU8V7K"
+  },
+  "dolores": {
+    "original_name": "Dolores",
+    "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B",
+    "artist_id": "6nYVwBK8nCQCYlb7rA763B"
+  },
+  "vampires everywhere!": {
+    "original_name": "Vampires Everywhere!",
+    "url": "https://open.spotify.com/artist/2RJ0cQlHOmiZ7JuHBwgUbV",
+    "artist_id": "2RJ0cQlHOmiZ7JuHBwgUbV"
+  },
+  "phony": {
+    "original_name": "PHONY",
+    "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6",
+    "artist_id": "0oBsnAC3fzYkTHF3bkfNx6"
+  },
+  "varg": {
+    "original_name": "Varg",
+    "url": "https://open.spotify.com/artist/2HoXuqg3oIwcHIeZHEsBPs",
+    "artist_id": "2HoXuqg3oIwcHIeZHEsBPs"
+  },
+  "ascendence us": {
+    "original_name": "Ascendence US",
+    "url": "https://open.spotify.com/artist/306Ena0TaX3m7r1VQQBB9Q",
+    "artist_id": "306Ena0TaX3m7r1VQQBB9Q"
+  },
+  "the tex avery syndrome": {
+    "original_name": "The Tex Avery Syndrome",
+    "url": "https://open.spotify.com/artist/0UO5OOoyb0OoF61DR4z7Wk",
+    "artist_id": "0UO5OOoyb0OoF61DR4z7Wk"
+  },
+  "in shallows": {
+    "original_name": "In Shallows",
+    "url": "https://open.spotify.com/artist/2mhZAf5yLrqvg6zkdwY5Bk",
+    "artist_id": "2mhZAf5yLrqvg6zkdwY5Bk"
+  },
+  "played by kings": {
+    "original_name": "Played by Kings",
+    "url": "https://open.spotify.com/artist/07xAFRpiGACPLiyanE6OXW",
+    "artist_id": "07xAFRpiGACPLiyanE6OXW"
+  },
+  "emphuria": {
+    "original_name": "Emphuria",
+    "url": "https://open.spotify.com/artist/4CpcVmCj04ADMM6PPUlZc5",
+    "artist_id": "4CpcVmCj04ADMM6PPUlZc5"
+  },
+  "casket mush": {
+    "original_name": "Casket Mush",
+    "url": "https://open.spotify.com/artist/4CNXnQDhPoJRZ9GGrymWeC",
+    "artist_id": "4CNXnQDhPoJRZ9GGrymWeC"
+  },
+  "monsters everywhere": {
+    "original_name": "Monsters Everywhere",
+    "url": "https://open.spotify.com/artist/6HLOiMOiit1xMsgex7jBRY",
+    "artist_id": "6HLOiMOiit1xMsgex7jBRY"
+  },
+  "stercore": {
+    "original_name": "Stercore",
+    "url": "https://open.spotify.com/artist/1FaSH1mAXftP0W4txYyOhb",
+    "artist_id": "1FaSH1mAXftP0W4txYyOhb"
+  },
+  "aspect iris": {
+    "original_name": "Aspect Iris",
+    "url": "https://open.spotify.com/artist/7fsQxfNSkLrHZUHiIYu6HK",
+    "artist_id": "7fsQxfNSkLrHZUHiIYu6HK"
+  },
+  "\u0440\u0443\u0431\u0435\u0436\u0438": {
+    "original_name": "\u0420\u0443\u0431\u0435\u0436\u0438",
+    "url": "https://open.spotify.com/artist/5LL1VmgzJG522LK6mZSFAk",
+    "artist_id": "5LL1VmgzJG522LK6mZSFAk"
+  },
+  "diabolic night": {
+    "original_name": "Diabolic Night",
+    "url": "https://open.spotify.com/artist/3wnTCtUXbClNxJNfYtH0mF",
+    "artist_id": "3wnTCtUXbClNxJNfYtH0mF"
+  },
+  "unvow": {
+    "original_name": "Unvow",
+    "url": "https://open.spotify.com/artist/4mVBUXPUhSeh8xkE5jp5EF",
+    "artist_id": "4mVBUXPUhSeh8xkE5jp5EF"
+  },
+  "euclid c finder": {
+    "original_name": "Euclid C Finder",
+    "url": "https://open.spotify.com/artist/5h7ZUEHkfkxLqsXzt5VCdV",
+    "artist_id": "5h7ZUEHkfkxLqsXzt5VCdV"
+  },
+  "ashmaze.": {
+    "original_name": "Ashmaze.",
+    "url": "https://open.spotify.com/artist/1KtNSawz6BDskQOgeRw9a2",
+    "artist_id": "1KtNSawz6BDskQOgeRw9a2"
+  },
+  "the hill is burning": {
+    "original_name": "The Hill Is Burning",
+    "url": "https://open.spotify.com/artist/6vzsOuuHmSN5IRL0bD0PNK",
+    "artist_id": "6vzsOuuHmSN5IRL0bD0PNK"
+  },
+  "torn soul": {
+    "original_name": "Torn Soul",
+    "url": "https://open.spotify.com/artist/76TXOS9VZFnaKHf6VW5oIY",
+    "artist_id": "76TXOS9VZFnaKHf6VW5oIY"
+  },
+  "internal suffering": {
+    "original_name": "Internal Suffering",
+    "url": "https://open.spotify.com/artist/6Zbxm3jOsbcEJUdDG163OE",
+    "artist_id": "6Zbxm3jOsbcEJUdDG163OE"
+  },
+  "sin deliverance": {
+    "original_name": "Sin deliverance",
+    "url": "https://open.spotify.com/artist/4hBYABCOpfUZLctDxpAwT9",
+    "artist_id": "4hBYABCOpfUZLctDxpAwT9"
+  },
+  "go ahead and die": {
+    "original_name": "Go Ahead And Die",
+    "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113",
+    "artist_id": "3VvvNtwzaS0dyqr13Pa113"
+  },
+  "fukuro": {
+    "original_name": "Fukuro",
+    "url": "https://open.spotify.com/artist/6G4xErlRWfs1ReVqZvsjh6",
+    "artist_id": "6G4xErlRWfs1ReVqZvsjh6"
+  },
+  "by the thousands": {
+    "original_name": "By the Thousands",
+    "url": "https://open.spotify.com/artist/7jbkCD5BIRbdCLOz5J6S1Y",
+    "artist_id": "7jbkCD5BIRbdCLOz5J6S1Y"
+  },
+  "seagrave": {
+    "original_name": "SEAGRAVE",
+    "url": "https://open.spotify.com/artist/7Gbx8oiIhPlDGaAUBKmdUh",
+    "artist_id": "7Gbx8oiIhPlDGaAUBKmdUh"
+  },
+  "psycho decadence": {
+    "original_name": "Psycho Decadence",
+    "url": "https://open.spotify.com/artist/1PuQN6QGQcPjddkb3We44S",
+    "artist_id": "1PuQN6QGQcPjddkb3We44S"
+  },
+  "torch it": {
+    "original_name": "TORCH IT",
+    "url": "https://open.spotify.com/artist/1yhWlmuvAoFverferhdCeh",
+    "artist_id": "1yhWlmuvAoFverferhdCeh"
+  },
+  "recone": {
+    "original_name": "Recone",
+    "url": "https://open.spotify.com/artist/0xKLqWvJEA8gctABPP2LwQ",
+    "artist_id": "0xKLqWvJEA8gctABPP2LwQ"
+  },
+  "inborn tendency": {
+    "original_name": "Inborn Tendency",
+    "url": "https://open.spotify.com/artist/5I5qsax1FbMfnJ52k5iADw",
+    "artist_id": "5I5qsax1FbMfnJ52k5iADw"
+  },
+  "a scent like wolves": {
+    "original_name": "A Scent Like Wolves",
+    "url": "https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji",
+    "artist_id": "45MtkhYiPMUHwT4Wv7qBji"
+  },
+  "xaaxaa": {
+    "original_name": "XAAXAA",
+    "url": "https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd",
+    "artist_id": "0VcWUiBe3sJ7tqkZejkQvd"
+  },
+  "nvrless": {
+    "original_name": "NVRLESS",
+    "url": "https://open.spotify.com/artist/7FIWXvLy4UOjPJ8Vcd2Onf",
+    "artist_id": "7FIWXvLy4UOjPJ8Vcd2Onf"
+  },
+  "loveletter": {
+    "original_name": "LOVELETTER",
+    "url": "https://open.spotify.com/artist/0o8z9Pak8Rmcwq28IdWYn4",
+    "artist_id": "0o8z9Pak8Rmcwq28IdWYn4"
+  },
+  "whitemoth": {
+    "original_name": "WHITEMOTH",
+    "url": "https://open.spotify.com/artist/2yoTUfq2bi27s3RZXTEgkE",
+    "artist_id": "2yoTUfq2bi27s3RZXTEgkE"
+  },
+  "bue": {
+    "original_name": "Bue",
+    "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW",
+    "artist_id": "11kBu957KTYoAltZHDm8gW"
+  },
+  "parti!": {
+    "original_name": "Parti!",
+    "url": "https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK",
+    "artist_id": "1b17pNackw7aDoGd6NIZzK"
+  },
+  "within reach": {
+    "original_name": "Within Reach",
+    "url": "https://open.spotify.com/artist/4revVKBhEVRD2wbXn4L10w",
+    "artist_id": "4revVKBhEVRD2wbXn4L10w"
+  },
+  "ascend": {
+    "original_name": "ASCEND",
+    "url": "https://open.spotify.com/artist/3Vtn4tPlT2mTkh8WvgBLOJ",
+    "artist_id": "3Vtn4tPlT2mTkh8WvgBLOJ"
+  },
+  "shiva": {
+    "original_name": "SHIVA",
+    "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS",
+    "artist_id": "2K5nCggbhSZ00YCYP5qkZS"
+  },
+  "foetal juice": {
+    "original_name": "Foetal Juice",
+    "url": "https://open.spotify.com/artist/75OkKMJXuW7voncWJ2DfLs",
+    "artist_id": "75OkKMJXuW7voncWJ2DfLs"
+  },
+  "dematerialize": {
+    "original_name": "DEMATERIALIZE",
+    "url": "https://open.spotify.com/artist/5v3BFxzA17aNgLGha3Lb2v",
+    "artist_id": "5v3BFxzA17aNgLGha3Lb2v"
+  },
+  "as beings": {
+    "original_name": "As Beings",
+    "url": "https://open.spotify.com/artist/4yBzl1zFsPRPln3O5xVILz",
+    "artist_id": "4yBzl1zFsPRPln3O5xVILz"
+  },
+  "posthumanx": {
+    "original_name": "PostHumanX",
+    "url": "https://open.spotify.com/artist/4oPHZ0Ot9sLUPkzLD3bx5d",
+    "artist_id": "4oPHZ0Ot9sLUPkzLD3bx5d"
+  },
+  "contortion": {
+    "original_name": "CONTORTION",
+    "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS",
+    "artist_id": "7nCgNmfYJcsVy3vOOzExYS"
+  },
+  "gorehammer": {
+    "original_name": "GOREHAMMER",
+    "url": "https://open.spotify.com/artist/2Y7k2gNPjdubt7SO0wyy2A",
+    "artist_id": "2Y7k2gNPjdubt7SO0wyy2A"
+  },
+  "dripping decay": {
+    "original_name": "Dripping Decay",
+    "url": "https://open.spotify.com/artist/5D7UJcHPKqPJbFEQDflK85",
+    "artist_id": "5D7UJcHPKqPJbFEQDflK85"
+  },
+  "still here": {
+    "original_name": "Still Here",
+    "url": "https://open.spotify.com/artist/4nuLJ82PPtEGM2OoAaAwcw",
+    "artist_id": "4nuLJ82PPtEGM2OoAaAwcw"
+  },
+  "oakheart": {
+    "original_name": "Oakheart",
+    "url": "https://open.spotify.com/artist/2mv5DRDdUmx7Uw2IjtiIPc",
+    "artist_id": "2mv5DRDdUmx7Uw2IjtiIPc"
+  },
+  "stortregn": {
+    "original_name": "Stortregn",
+    "url": "https://open.spotify.com/artist/4SuIgDBeOQBz7cI1HfsK31",
+    "artist_id": "4SuIgDBeOQBz7cI1HfsK31"
+  },
+  "zeile": {
+    "original_name": "ZEILE",
+    "url": "https://open.spotify.com/artist/0MOSbrifsnIzRObJyceBbg",
+    "artist_id": "0MOSbrifsnIzRObJyceBbg"
+  },
+  "casketmaker": {
+    "original_name": "Casketmaker",
+    "url": "https://open.spotify.com/artist/3enWWpgXPcYbw1vMT9QSxo",
+    "artist_id": "3enWWpgXPcYbw1vMT9QSxo"
+  },
+  "thrash all nations": {
+    "original_name": "Thrash All Nations",
+    "url": "https://open.spotify.com/artist/3NrNgyOUrXEG4pGiil0k3q",
+    "artist_id": "3NrNgyOUrXEG4pGiil0k3q"
+  },
+  "grymheart": {
+    "original_name": "Grymheart",
+    "url": "https://open.spotify.com/artist/4SlhNbOnl7dC1fSZzchJTE",
+    "artist_id": "4SlhNbOnl7dC1fSZzchJTE"
+  },
+  "sedative": {
+    "original_name": "Sedative",
+    "url": "https://open.spotify.com/artist/6A4keF2jM8tHXsfqCvRcNT",
+    "artist_id": "6A4keF2jM8tHXsfqCvRcNT"
+  },
+  "not my art": {
+    "original_name": "Not My Art",
+    "url": "https://open.spotify.com/artist/1NEwaL09NBlpVvWOcK4jU2",
+    "artist_id": "1NEwaL09NBlpVvWOcK4jU2"
+  },
+  "terminalist": {
+    "original_name": "Terminalist",
+    "url": "https://open.spotify.com/artist/5N4HmRQloswgMMTnnIHQmQ",
+    "artist_id": "5N4HmRQloswgMMTnnIHQmQ"
+  },
+  "thus": {
+    "original_name": "Thus",
+    "url": "https://open.spotify.com/artist/3TQvQT0PqlTLLENO4L3Tik",
+    "artist_id": "3TQvQT0PqlTLLENO4L3Tik"
+  },
+  "words of concrete": {
+    "original_name": "Words of Concrete",
+    "url": "https://open.spotify.com/artist/1Cvh481W9iq8Mxvf9DsLtr",
+    "artist_id": "1Cvh481W9iq8Mxvf9DsLtr"
+  },
+  "alqemiste": {
+    "original_name": "alqemiste",
+    "url": "https://open.spotify.com/artist/2YeXVe7K8fh65o6queKmuF",
+    "artist_id": "2YeXVe7K8fh65o6queKmuF"
+  },
+  "walking corpse syndrome": {
+    "original_name": "Walking Corpse Syndrome",
+    "url": "https://open.spotify.com/artist/6saSF87rPaxznAOLm4PnGc",
+    "artist_id": "6saSF87rPaxznAOLm4PnGc"
+  },
+  "necrosanct": {
+    "original_name": "Necrosanct",
+    "url": "https://open.spotify.com/artist/2U2PuLvvuR8YiVVu4p7ee5",
+    "artist_id": "2U2PuLvvuR8YiVVu4p7ee5"
+  },
+  "i think they lied": {
+    "original_name": "I Think They Lied",
+    "url": "https://open.spotify.com/artist/5i10fsXaj3snLRcXMSm640",
+    "artist_id": "5i10fsXaj3snLRcXMSm640"
+  },
+  "utilize the remains": {
+    "original_name": "Utilize The Remains",
+    "url": "https://open.spotify.com/artist/0cwVd3Xm1Px4exP0TyAft7",
+    "artist_id": "0cwVd3Xm1Px4exP0TyAft7"
+  },
+  "csn": {
+    "original_name": "CSN",
+    "url": "https://open.spotify.com/artist/0g99fro1e3wsldTwsqFBHr",
+    "artist_id": "0g99fro1e3wsldTwsqFBHr"
+  },
+  "unbliss": {
+    "original_name": "UNBLISS",
+    "url": "https://open.spotify.com/artist/2AN5cUwCVlU2ZHU7yBsHF9",
+    "artist_id": "2AN5cUwCVlU2ZHU7yBsHF9"
+  },
+  "neurectomy": {
+    "original_name": "Neurectomy",
+    "url": "https://open.spotify.com/artist/4ktA185ReIkAkyL3SJqSJy",
+    "artist_id": "4ktA185ReIkAkyL3SJqSJy"
+  },
+  "death of a deity": {
+    "original_name": "Death of a Deity",
+    "url": "https://open.spotify.com/artist/3yZlzF2huAB9mbPDhOtnUN",
+    "artist_id": "3yZlzF2huAB9mbPDhOtnUN"
+  },
+  "urfaust": {
+    "original_name": "Urfaust",
+    "url": "https://open.spotify.com/artist/6D3oL9YvZBgd3IVFWUJ2BI",
+    "artist_id": "6D3oL9YvZBgd3IVFWUJ2BI"
+  },
+  "the chug project": {
+    "original_name": "The Chug Project",
+    "url": "https://open.spotify.com/artist/4mPmcOGfP5R1pIhMRvLu0D",
+    "artist_id": "4mPmcOGfP5R1pIhMRvLu0D"
+  },
+  "krypt": {
+    "original_name": "Krypt",
+    "url": "https://open.spotify.com/artist/0RDGuvtdiSiA25fb7FEl8p",
+    "artist_id": "0RDGuvtdiSiA25fb7FEl8p"
+  },
+  "voice of ruin": {
+    "original_name": "Voice Of Ruin",
+    "url": "https://open.spotify.com/artist/4forTjuHe6t8Ybw1Y3SEVx",
+    "artist_id": "4forTjuHe6t8Ybw1Y3SEVx"
+  },
+  "nefarius": {
+    "original_name": "Nefarius",
+    "url": "https://open.spotify.com/artist/4Drs0Q0mdXNql39PM6AtsN",
+    "artist_id": "4Drs0Q0mdXNql39PM6AtsN"
+  },
+  "deaths contract": {
+    "original_name": "Deaths Contract",
+    "url": "https://open.spotify.com/artist/4N90WuwleCUe1FycsG2Y9h",
+    "artist_id": "4N90WuwleCUe1FycsG2Y9h"
+  },
+  "anal flud": {
+    "original_name": "ANAL FLUD",
+    "url": "https://open.spotify.com/artist/40pB22TC0P5GiZlzduyqdt",
+    "artist_id": "40pB22TC0P5GiZlzduyqdt"
+  },
+  "sinner self": {
+    "original_name": "Sinner Self",
+    "url": "https://open.spotify.com/artist/7BCaddhy7NWB9M1PSK9UZy",
+    "artist_id": "7BCaddhy7NWB9M1PSK9UZy"
+  },
+  "skeleton pit": {
+    "original_name": "Skeleton Pit",
+    "url": "https://open.spotify.com/artist/3e5jm2rnXJcBQY06h5Rdut",
+    "artist_id": "3e5jm2rnXJcBQY06h5Rdut"
+  },
+  "deathless": {
+    "original_name": "Deathless",
+    "url": "https://open.spotify.com/artist/17hfWp98WYoCWRVxEwF6SP",
+    "artist_id": "17hfWp98WYoCWRVxEwF6SP"
+  },
+  "waterlines": {
+    "original_name": "Waterlines",
+    "url": "https://open.spotify.com/artist/4fHej5iOHCpTYsujBTm1Kb",
+    "artist_id": "4fHej5iOHCpTYsujBTm1Kb"
+  },
+  "bears": {
+    "original_name": "Bears",
+    "url": "https://open.spotify.com/artist/7vbSa291o9QWdShbidokvy",
+    "artist_id": "7vbSa291o9QWdShbidokvy"
+  },
+  "beyond all doubt": {
+    "original_name": "Beyond All Doubt",
+    "url": "https://open.spotify.com/artist/2drvSlB2DRH5oq1f4SZOnM",
+    "artist_id": "2drvSlB2DRH5oq1f4SZOnM"
+  },
+  "iamone": {
+    "original_name": "IAMONE",
+    "url": "https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx",
+    "artist_id": "3fhSDZ3YSUfbYQGTzlolkx"
+  },
+  "ectoplasmorphosis": {
+    "original_name": "Ectoplasmorphosis",
+    "url": "https://open.spotify.com/artist/0XSYobpysRZdyNB88F9241",
+    "artist_id": "0XSYobpysRZdyNB88F9241"
+  },
+  "splinters.": {
+    "original_name": "Splinters.",
+    "url": "https://open.spotify.com/artist/7d9DV6xt5SZR7632oUrtvu",
+    "artist_id": "7d9DV6xt5SZR7632oUrtvu"
+  },
+  "tyler shelton": {
+    "original_name": "Tyler Shelton",
+    "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC",
+    "artist_id": "403x11RUETcMwsBZlbneLC"
+  },
+  "death rattle": {
+    "original_name": "Death Rattle",
+    "url": "https://open.spotify.com/artist/6md0CFaov2KJECy2XrqE2Q",
+    "artist_id": "6md0CFaov2KJECy2XrqE2Q"
+  },
+  "human instrumentality project": {
+    "original_name": "Human Instrumentality Project",
+    "url": "https://open.spotify.com/artist/2hZUJRUibhLFm2e5iW01G2",
+    "artist_id": "2hZUJRUibhLFm2e5iW01G2"
+  },
+  "dying breed": {
+    "original_name": "Dying Breed",
+    "url": "https://open.spotify.com/artist/7C6jNfEsO4VWradSqNUbal",
+    "artist_id": "7C6jNfEsO4VWradSqNUbal"
+  },
+  "impuritan": {
+    "original_name": "Impuritan",
+    "url": "https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ",
+    "artist_id": "6WPUYW0KEbNPqs7Ipxl1jJ"
+  },
+  "grapefruit astronauts": {
+    "original_name": "Grapefruit Astronauts",
+    "url": "https://open.spotify.com/artist/1jA6wasaedUfXQrOPPwNhl",
+    "artist_id": "1jA6wasaedUfXQrOPPwNhl"
+  },
+  "taking meds": {
+    "original_name": "Taking Meds",
+    "url": "https://open.spotify.com/artist/1SQ5kDSYuCb4qOJx5itFxz",
+    "artist_id": "1SQ5kDSYuCb4qOJx5itFxz"
+  },
+  "dead soma": {
+    "original_name": "Dead Soma",
+    "url": "https://open.spotify.com/artist/27Q28eGvRiVWQANCrcJG34",
+    "artist_id": "27Q28eGvRiVWQANCrcJG34"
+  },
+  "fiends": {
+    "original_name": "Fiends",
+    "url": "https://open.spotify.com/artist/59iJW8QarPpbSLWJVbsRoJ",
+    "artist_id": "59iJW8QarPpbSLWJVbsRoJ"
+  },
+  "heirs of hatred": {
+    "original_name": "Heirs of Hatred",
+    "url": "https://open.spotify.com/artist/0iImCogzHXqhdHDb1f5p1j",
+    "artist_id": "0iImCogzHXqhdHDb1f5p1j"
+  },
+  "creak": {
+    "original_name": "Creak",
+    "url": "https://open.spotify.com/artist/2AQpX6cdbkpljOioz0f5v6",
+    "artist_id": "2AQpX6cdbkpljOioz0f5v6"
+  },
+  "behold here's poison": {
+    "original_name": "Behold Here's Poison",
+    "url": "https://open.spotify.com/artist/1hTePDkXybBVyXtFRSqp4D",
+    "artist_id": "1hTePDkXybBVyXtFRSqp4D"
+  },
+  "kill devil hill": {
+    "original_name": "Kill Devil Hill",
+    "url": "https://open.spotify.com/artist/45gTrJcFdq1HhxZjNlPEcM",
+    "artist_id": "45gTrJcFdq1HhxZjNlPEcM"
+  },
+  "julien-k": {
+    "original_name": "Julien-K",
+    "url": "https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN",
+    "artist_id": "6a82pdlhS6SsAq7HDUSZKN"
+  },
+  "arka'n asrafokor": {
+    "original_name": "ARKA'N ASRAFOKOR",
+    "url": "https://open.spotify.com/artist/6l8FgxcVWdqGn25uZY2rgY",
+    "artist_id": "6l8FgxcVWdqGn25uZY2rgY"
+  },
+  "return to saturn": {
+    "original_name": "Return To Saturn",
+    "url": "https://open.spotify.com/artist/7rZrfvI4vvejRDgYoVoJF4",
+    "artist_id": "7rZrfvI4vvejRDgYoVoJF4"
+  },
+  "the great nothing": {
+    "original_name": "the great nothing",
+    "url": "https://open.spotify.com/artist/01UG5IcUBSldYVRFLXeXrI",
+    "artist_id": "01UG5IcUBSldYVRFLXeXrI"
+  },
+  "neverbloom": {
+    "original_name": "neverbloom",
+    "url": "https://open.spotify.com/artist/56yrkHXQrKsqrgwq5ZQrhR",
+    "artist_id": "56yrkHXQrKsqrgwq5ZQrhR"
+  },
+  "imperial crystalline entombment i.c.e": {
+    "original_name": "Imperial Crystalline Entombment I.C.E",
+    "url": "https://open.spotify.com/artist/1NN9iBfjr2X9Zu1gDLAxyK",
+    "artist_id": "1NN9iBfjr2X9Zu1gDLAxyK"
+  },
+  "poolside at the flamingo": {
+    "original_name": "Poolside at the Flamingo",
+    "url": "https://open.spotify.com/artist/3C9YGkrBTmqdARKKzwv7Wc",
+    "artist_id": "3C9YGkrBTmqdARKKzwv7Wc"
+  },
+  "vexatious": {
+    "original_name": "Vexatious",
+    "url": "https://open.spotify.com/artist/2kavKsoT7WFOLNr3HFUPgG",
+    "artist_id": "2kavKsoT7WFOLNr3HFUPgG"
+  },
+  "tidebringer": {
+    "original_name": "Tidebringer",
+    "url": "https://open.spotify.com/artist/0PCRapcpgp9JSte9Atwb83",
+    "artist_id": "0PCRapcpgp9JSte9Atwb83"
+  },
+  "disobedient crew": {
+    "original_name": "DISOBEDIENT CREW",
+    "url": "https://open.spotify.com/artist/39D5OlLQpowYRI3C67iI1M",
+    "artist_id": "39D5OlLQpowYRI3C67iI1M"
+  },
+  "thra": {
+    "original_name": "Thra",
+    "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP",
+    "artist_id": "3JysSUOyfVs1UQ0UaESheP"
+  },
+  "deadculture": {
+    "original_name": "Deadculture",
+    "url": "https://open.spotify.com/artist/2mdFEq7G55YeLWF9lJaW17",
+    "artist_id": "2mdFEq7G55YeLWF9lJaW17"
+  },
+  "atlantic rift": {
+    "original_name": "Atlantic Rift",
+    "url": "https://open.spotify.com/artist/79EFxNvEMMwRKD4ZYEgGFK",
+    "artist_id": "79EFxNvEMMwRKD4ZYEgGFK"
+  },
+  "inhuman architects": {
+    "original_name": "Inhuman Architects",
+    "url": "https://open.spotify.com/artist/1BEvNWHnWQQ7HbhSV6LckY",
+    "artist_id": "1BEvNWHnWQQ7HbhSV6LckY"
+  },
+  "sarea": {
+    "original_name": "Sarea",
+    "url": "https://open.spotify.com/artist/0XmGOpXc3fU9wpX5iUVe13",
+    "artist_id": "0XmGOpXc3fU9wpX5iUVe13"
+  },
+  "hackedface": {
+    "original_name": "Hackedface",
+    "url": "https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v",
+    "artist_id": "4GIyZ8aBc3t04EYYp2zb4v"
+  },
+  "knights of the abyss": {
+    "original_name": "Knights Of The Abyss",
+    "url": "https://open.spotify.com/artist/1UBc8Hb8c54RMdYT2cRonw",
+    "artist_id": "1UBc8Hb8c54RMdYT2cRonw"
+  },
+  "wanted": {
+    "original_name": "WANTED",
+    "url": "https://open.spotify.com/artist/1pMV9AQ4RDndrJlxjgJy71",
+    "artist_id": "1pMV9AQ4RDndrJlxjgJy71"
+  },
+  "hard reset": {
+    "original_name": "Hard Reset",
+    "url": "https://open.spotify.com/artist/2NyQQFikJzPlPqlR9QbC4o",
+    "artist_id": "2NyQQFikJzPlPqlR9QbC4o"
+  },
+  "aetherian": {
+    "original_name": "Aetherian",
+    "url": "https://open.spotify.com/artist/3dpDSmg1jDGvwMVQxhDYlw",
+    "artist_id": "3dpDSmg1jDGvwMVQxhDYlw"
+  },
+  "spliced": {
+    "original_name": "SPLICED",
+    "url": "https://open.spotify.com/artist/3ZkkruWoj5y5La6XfueJlM",
+    "artist_id": "3ZkkruWoj5y5La6XfueJlM"
+  },
+  "mom body": {
+    "original_name": "Mom Body",
+    "url": "https://open.spotify.com/artist/6ixSMM0L2oeisMQAKxe36i",
+    "artist_id": "6ixSMM0L2oeisMQAKxe36i"
+  },
+  "a fitting end": {
+    "original_name": "A Fitting End",
+    "url": "https://open.spotify.com/artist/1hbLr4Qy0ArfxNvTYvgmLQ",
+    "artist_id": "1hbLr4Qy0ArfxNvTYvgmLQ"
+  },
+  "brandon mckagan": {
+    "original_name": "Brandon McKagan",
+    "url": "https://open.spotify.com/artist/3dSAGs1Kbj6Qse4de7hzyj",
+    "artist_id": "3dSAGs1Kbj6Qse4de7hzyj"
+  },
+  "bare king": {
+    "original_name": "Bare King",
+    "url": "https://open.spotify.com/artist/1u08Ha0U4ZDfmk1pynA7Ln",
+    "artist_id": "1u08Ha0U4ZDfmk1pynA7Ln"
+  },
+  "grotesqueries": {
+    "original_name": "Grotesqueries",
+    "url": "https://open.spotify.com/artist/3ZSt8Wvfw4BqGvQM1gr8mB",
+    "artist_id": "3ZSt8Wvfw4BqGvQM1gr8mB"
+  },
+  "chxeu": {
+    "original_name": "CHXEU",
+    "url": "https://open.spotify.com/artist/099GY2lhhBjjs32KHTPGuf",
+    "artist_id": "099GY2lhhBjjs32KHTPGuf"
+  },
+  "dragged out": {
+    "original_name": "Dragged Out",
+    "url": "https://open.spotify.com/artist/73TD5iYs1dOBfdBhyPiTuV",
+    "artist_id": "73TD5iYs1dOBfdBhyPiTuV"
+  },
+  "star 99": {
+    "original_name": "Star 99",
+    "url": "https://open.spotify.com/artist/0SclPISF5pHutoTooqCfFJ",
+    "artist_id": "0SclPISF5pHutoTooqCfFJ"
+  }
+}
