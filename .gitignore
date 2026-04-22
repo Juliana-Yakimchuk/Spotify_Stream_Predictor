@@ -211,3 +211,8 @@ __marimo__/
 
 fetched_isrcs.txt
 .parquet
+
+# Data files
+*.parquet
+data/
+notebooks/data/
