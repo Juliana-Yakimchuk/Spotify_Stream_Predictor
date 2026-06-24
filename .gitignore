@@ -214,5 +214,5 @@ fetched_isrcs.txt
 
 # Data files
 *.parquet
-data/
+data/raw/
 notebooks/data/
