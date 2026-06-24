@@ -208,4 +208,11 @@ __marimo__/
 
 # macOS system files
 .DS_Store
+
 fetched_isrcs.txt
+.parquet
+
+# Data files
+*.parquet
+data/raw/
+notebooks/data/
