@@ -5,9 +5,6 @@ import pandas as pd
 import requests
 
 
-# ---------------------------------------------------------------------------
-# Configuration
-# ---------------------------------------------------------------------------
 
 # Default location where the collected ReccoBeats data will be stored.
 RAW_PATH = Path("data/raw/reccobeats_raw.parquet")
@@ -29,9 +26,6 @@ HEADERS = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Helper functions
-# ---------------------------------------------------------------------------
 
 def load_fetched_isrcs(path):
     """
